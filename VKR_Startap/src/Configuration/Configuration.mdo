@@ -38,4 +38,9 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.ПроектныйОфис</subsystems>
+  <subsystems>Subsystem.СопровождениеПроектов</subsystems>
+  <subsystems>Subsystem.ЭкспертизаИОценка</subsystems>
+  <subsystems>Subsystem.ОтчетностьИАналитика</subsystems>
+  <subsystems>Subsystem.Администрирование</subsystems>
 </mdclass:Configuration>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="38145ee2-1f38-43e7-a35e-00c24a3d5cc4">
+  <name>СопровождениеПроектов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сопровождение проектов</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+</mdclass:Subsystem>

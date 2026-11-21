@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1abf6d08-fa63-4332-ad49-3281bbfe5bb2">
+  <name>ЭкспертизаИОценка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Экспертиза и оценка</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+</mdclass:Subsystem>
