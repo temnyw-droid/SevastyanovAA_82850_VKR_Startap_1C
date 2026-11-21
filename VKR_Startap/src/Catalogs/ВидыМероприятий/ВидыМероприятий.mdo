@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="17e08c81-3b77-4667-96d9-33f8bf1ed09e">
+  <producedTypes>
+    <objectType typeId="d4fd2af7-aed3-449f-bf12-6f238df9be15" valueTypeId="876ff3cf-3963-473e-abc9-ad6e410ebfd5"/>
+    <refType typeId="c4338030-fef6-4343-8ad7-a0df6ad46f0a" valueTypeId="f3da2a96-98b1-42ae-ab74-7323564b34fe"/>
+    <selectionType typeId="d1eb58d9-8c77-4169-b03c-a38d848825aa" valueTypeId="618a9942-af55-4412-b9de-7a060ee5df2c"/>
+    <listType typeId="1c0c11e0-efa3-4498-845a-5d1b6aa95541" valueTypeId="314a5853-a13f-4188-bd4a-ec85606f8db4"/>
+    <managerType typeId="d7bc945d-4252-4ce5-a08b-0d4e594dba16" valueTypeId="746a15e4-e620-48f2-9960-12593a1a48cb"/>
+  </producedTypes>
+  <name>ВидыМероприятий</name>
+  <synonym>
+    <key>ru</key>
+    <value>Виды мероприятий</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВидыМероприятий.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ВидыМероприятий.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>9</codeLength>
+  <descriptionLength>100</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="0925de57-48b8-45dd-b8d4-d60349ea2d70">
+    <name>ТипМероприятия</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тип мероприятия</value>
+    </synonym>
+    <type>
+      <types>EnumRef.ТипыМероприятий</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

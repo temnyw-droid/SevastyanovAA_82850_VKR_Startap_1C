@@ -43,6 +43,22 @@
   <subsystems>Subsystem.ПроектныйОфис</subsystems>
   <subsystems>Subsystem.СопровождениеПроектов</subsystems>
   <subsystems>Subsystem.ЭкспертизаИОценка</subsystems>
+  <catalogs>Catalog.Аудитории</catalogs>
+  <catalogs>Catalog.ВидыМероприятий</catalogs>
+  <catalogs>Catalog.ИсточникиФинансирования</catalogs>
+  <catalogs>Catalog.КритерииОценки</catalogs>
+  <catalogs>Catalog.НаборыПроектов</catalogs>
+  <catalogs>Catalog.НаправленияПодготовки</catalogs>
+  <catalogs>Catalog.ПартнерыПроектов</catalogs>
+  <catalogs>Catalog.Подразделения</catalogs>
+  <catalogs>Catalog.ПоказателиЭффективности</catalogs>
+  <catalogs>Catalog.Пользователи</catalogs>
+  <catalogs>Catalog.Проекты</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Студенты</catalogs>
+  <catalogs>Catalog.УчебныеГруппы</catalogs>
+  <catalogs>Catalog.ШаблоныДокументов</catalogs>
+  <catalogs>Catalog.ЭтапыПроекта</catalogs>
   <enums>Enum.РезультатыЭкспертизы</enums>
   <enums>Enum.РолиУчастниковКоманды</enums>
   <enums>Enum.СтатусыПроекта</enums>

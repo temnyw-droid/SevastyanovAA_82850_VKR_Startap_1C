@@ -7,4 +7,8 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.ИсточникиФинансирования</content>
+  <content>Catalog.НаборыПроектов</content>
+  <content>Catalog.ПартнерыПроектов</content>
+  <content>Catalog.Проекты</content>
 </mdclass:Subsystem>

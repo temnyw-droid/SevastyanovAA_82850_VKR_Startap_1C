@@ -7,4 +7,12 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Аудитории</content>
+  <content>Catalog.НаправленияПодготовки</content>
+  <content>Catalog.Подразделения</content>
+  <content>Catalog.Пользователи</content>
+  <content>Catalog.Сотрудники</content>
+  <content>Catalog.Студенты</content>
+  <content>Catalog.УчебныеГруппы</content>
+  <content>Catalog.ШаблоныДокументов</content>
 </mdclass:Subsystem>
