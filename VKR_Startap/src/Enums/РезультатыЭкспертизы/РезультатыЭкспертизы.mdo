@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="73521bfa-bd7d-4051-9bb0-f7554ef6cc80">
+  <producedTypes>
+    <refType typeId="cba7197b-e351-4848-93b7-f53c1211f5fb" valueTypeId="a1f67e5f-dcd8-45e3-af70-8c539c2b0629"/>
+    <listType typeId="1bedcef5-9a40-403a-921e-1e40514c9c8a" valueTypeId="202fe24d-04f3-4738-a01a-3ae4b2a276b3"/>
+    <managerType typeId="7c57a3b2-8379-467f-8a71-ea85aac178d7" valueTypeId="616fcb61-9c16-465d-a3c8-1091be635565"/>
+  </producedTypes>
+  <name>РезультатыЭкспертизы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Результаты экспертизы</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="27cff0a6-1317-4c07-aef2-f9a6b7f90807">
+    <name>Одобрено</name>
+    <synonym>
+      <key>ru</key>
+      <value>Одобрено</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="ca5b1d4b-3f12-4e11-8a9e-5b9f83d43044">
+    <name>НаДоработку</name>
+    <synonym>
+      <key>ru</key>
+      <value>На доработку</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="77bc5653-b9b7-4451-9283-bb98fe7c687e">
+    <name>Отклонено</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отклонено</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

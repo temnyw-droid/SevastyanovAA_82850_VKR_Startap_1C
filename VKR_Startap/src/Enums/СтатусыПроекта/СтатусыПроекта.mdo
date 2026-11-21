@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="76bc496b-1ca3-418d-a17b-f3ebedb6eb7e">
+  <producedTypes>
+    <refType typeId="cba7197b-e351-4848-93b7-f53c1211f5fb" valueTypeId="a1f67e5f-dcd8-45e3-af70-8c539c2b0629"/>
+    <listType typeId="1bedcef5-9a40-403a-921e-1e40514c9c8a" valueTypeId="202fe24d-04f3-4738-a01a-3ae4b2a276b3"/>
+    <managerType typeId="7c57a3b2-8379-467f-8a71-ea85aac178d7" valueTypeId="616fcb61-9c16-465d-a3c8-1091be635565"/>
+  </producedTypes>
+  <name>СтатусыПроекта</name>
+  <synonym>
+    <key>ru</key>
+    <value>Статусы проекта</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="761153d1-1476-4189-a717-fa3e173a8904">
+    <name>ЧерновикЗаявки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Черновик заявки</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="1fca11f1-ae7f-4ba6-a2d9-a504ac0afff1">
+    <name>НаЭкспертизе</name>
+    <synonym>
+      <key>ru</key>
+      <value>На экспертизе</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="e1bdcc18-9e20-463d-baee-cb65bb17d0b6">
+    <name>Отобран</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отобран</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="fbfbc5fd-f7ba-49ee-af70-2e190de672df">
+    <name>Активен</name>
+    <synonym>
+      <key>ru</key>
+      <value>Активен</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="2d66cbb5-f7ef-42af-a8c6-4cb4f798198a">
+    <name>Приостановлен</name>
+    <synonym>
+      <key>ru</key>
+      <value>Приостановлен</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="33fcc80b-93d5-4121-a036-c663c3bee074">
+    <name>ДопущенКЗащите</name>
+    <synonym>
+      <key>ru</key>
+      <value>Допущен к защите</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="a5eddbd6-1f00-43c0-83dd-84c08ea31b3f">
+    <name>Защищен</name>
+    <synonym>
+      <key>ru</key>
+      <value>Защищен</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="d2da8f4c-8bf8-4f57-ad44-0a04904af41d">
+    <name>Отклонен</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отклонен</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

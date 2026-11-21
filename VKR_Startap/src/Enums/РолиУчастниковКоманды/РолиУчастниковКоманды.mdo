@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7ba879f3-7785-4f06-93f8-450ed9a89fcf">
+  <producedTypes>
+    <refType typeId="cba7197b-e351-4848-93b7-f53c1211f5fb" valueTypeId="a1f67e5f-dcd8-45e3-af70-8c539c2b0629"/>
+    <listType typeId="1bedcef5-9a40-403a-921e-1e40514c9c8a" valueTypeId="202fe24d-04f3-4738-a01a-3ae4b2a276b3"/>
+    <managerType typeId="7c57a3b2-8379-467f-8a71-ea85aac178d7" valueTypeId="616fcb61-9c16-465d-a3c8-1091be635565"/>
+  </producedTypes>
+  <name>РолиУчастниковКоманды</name>
+  <synonym>
+    <key>ru</key>
+    <value>Роли участников команды</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="c60493b1-e3f8-46a6-9f08-160666da1dcc">
+    <name>Лидер</name>
+    <synonym>
+      <key>ru</key>
+      <value>Лидер</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="3fdc5df5-7754-430e-ae10-1e4a5c63d82a">
+    <name>Разработчик</name>
+    <synonym>
+      <key>ru</key>
+      <value>Разработчик</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="1734ea8d-03b8-4348-8f8f-4cbceac50b81">
+    <name>Маркетолог</name>
+    <synonym>
+      <key>ru</key>
+      <value>Маркетолог</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="451c8560-877c-4141-bd39-c5144aa8e456">
+    <name>Аналитик</name>
+    <synonym>
+      <key>ru</key>
+      <value>Аналитик</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

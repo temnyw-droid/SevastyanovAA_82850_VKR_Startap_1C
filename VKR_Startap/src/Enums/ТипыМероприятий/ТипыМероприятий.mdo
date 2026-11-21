@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="48a8aadb-9792-48c3-a5a4-a02f7f834629">
+  <producedTypes>
+    <refType typeId="cba7197b-e351-4848-93b7-f53c1211f5fb" valueTypeId="a1f67e5f-dcd8-45e3-af70-8c539c2b0629"/>
+    <listType typeId="1bedcef5-9a40-403a-921e-1e40514c9c8a" valueTypeId="202fe24d-04f3-4738-a01a-3ae4b2a276b3"/>
+    <managerType typeId="7c57a3b2-8379-467f-8a71-ea85aac178d7" valueTypeId="616fcb61-9c16-465d-a3c8-1091be635565"/>
+  </producedTypes>
+  <name>ТипыМероприятий</name>
+  <synonym>
+    <key>ru</key>
+    <value>Типы мероприятий</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="f1e40b24-bfcb-48e1-8d3b-53671b20d648">
+    <name>Консультация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Консультация</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="9fe38427-099b-449e-9994-41a551931337">
+    <name>ТрекингСессия</name>
+    <synonym>
+      <key>ru</key>
+      <value>Трекинг-сессия</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="3aa19303-4742-4950-921b-fea245425bc6">
+    <name>ДемоДень</name>
+    <synonym>
+      <key>ru</key>
+      <value>Демо-день</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="07ef4e22-2e4e-468a-a2f6-aef5f5afa083">
+    <name>Предзащита</name>
+    <synonym>
+      <key>ru</key>
+      <value>Предзащита</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="0c922492-0248-4f49-9b89-fc5450797bc7">
+    <name>Защита</name>
+    <synonym>
+      <key>ru</key>
+      <value>Защита</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
