@@ -11,4 +11,7 @@
   <content>Catalog.НаборыПроектов</content>
   <content>Catalog.ПартнерыПроектов</content>
   <content>Catalog.Проекты</content>
+  <content>Document.ЗаявкаНаИзменениеПроекта</content>
+  <content>Document.ЗаявкаНаУчастие</content>
+  <content>Document.РегистрацияПроекта</content>
 </mdclass:Subsystem>

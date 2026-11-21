@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1501e179-1b18-4eac-912c-289b6eaa0a7e">
+  <producedTypes>
+    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
+    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
+    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
+    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
+    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+  </producedTypes>
+  <name>ПланРазвитияПроекта</name>
+  <synonym>
+    <key>ru</key>
+    <value>План развития проекта</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ПланРазвитияПроекта.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="a6318ccb-4e96-4075-91db-c062f6a64fac">
+    <name>Проект</name>
+    <synonym>
+      <key>ru</key>
+      <value>Проект</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Проекты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="1ba94d8f-4235-4767-b8c0-f44d0e5d297b">
+    <producedTypes>
+      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
+      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+    </producedTypes>
+    <name>Этапы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Этапы</value>
+    </synonym>
+    <attributes uuid="68a496b4-01f2-423f-8a4c-c02938a0a0c7">
+      <name>Этап</name>
+      <synonym>
+        <key>ru</key>
+        <value>Этап</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.ЭтапыПроекта</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="1324976b-1994-4003-a3fa-490e46def83c">
+      <name>ПлановоеНачало</name>
+      <synonym>
+        <key>ru</key>
+        <value>Плановое начало</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="48d9bc7a-a82d-4131-b8c8-0c396ff8ca61">
+      <name>ПлановоеОкончание</name>
+      <synonym>
+        <key>ru</key>
+        <value>Плановое окончание</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="6ca0b1a8-0b61-4df8-b14b-93d6188a8b98">
+      <name>Ответственный</name>
+      <synonym>
+        <key>ru</key>
+        <value>Ответственный</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.Сотрудники</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <lineNumberLength>9</lineNumberLength>
+  </tabularSections>
+</mdclass:Document>

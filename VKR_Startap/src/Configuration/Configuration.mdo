@@ -59,6 +59,17 @@
   <catalogs>Catalog.УчебныеГруппы</catalogs>
   <catalogs>Catalog.ШаблоныДокументов</catalogs>
   <catalogs>Catalog.ЭтапыПроекта</catalogs>
+  <documents>Document.ДопускКЗащите</documents>
+  <documents>Document.ЗащитаПроекта</documents>
+  <documents>Document.ЗаявкаНаИзменениеПроекта</documents>
+  <documents>Document.ЗаявкаНаУчастие</documents>
+  <documents>Document.НазначениеКуратора</documents>
+  <documents>Document.ОтчетПоЭтапу</documents>
+  <documents>Document.ОценкаЭтапа</documents>
+  <documents>Document.ПланРазвитияПроекта</documents>
+  <documents>Document.ПроектноеМероприятие</documents>
+  <documents>Document.РегистрацияПроекта</documents>
+  <documents>Document.ЭкспертизаЗаявки</documents>
   <enums>Enum.РезультатыЭкспертизы</enums>
   <enums>Enum.РолиУчастниковКоманды</enums>
   <enums>Enum.СтатусыПроекта</enums>

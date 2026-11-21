@@ -8,4 +8,8 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.КритерииОценки</content>
+  <content>Document.ДопускКЗащите</content>
+  <content>Document.ЗащитаПроекта</content>
+  <content>Document.ОценкаЭтапа</content>
+  <content>Document.ЭкспертизаЗаявки</content>
 </mdclass:Subsystem>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e308b297-e96d-48a6-9429-247f4ebddcb0">
+  <producedTypes>
+    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
+    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
+    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
+    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
+    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+  </producedTypes>
+  <name>ЭкспертизаЗаявки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Экспертиза заявки</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ЭкспертизаЗаявки.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="3de49876-6c54-41d5-8596-349171ade563">
+    <name>Заявка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявка</value>
+    </synonym>
+    <type>
+      <types>Document.ЗаявкаНаУчастие</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="f35fb137-1fcf-42b3-a718-aefb1aeca76f">
+    <name>Проект</name>
+    <synonym>
+      <key>ru</key>
+      <value>Проект</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Проекты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="88e0ef52-bd13-41aa-99c7-029326509562">
+    <name>Эксперт</name>
+    <synonym>
+      <key>ru</key>
+      <value>Эксперт</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Сотрудники</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="d1347157-3095-4bb1-9f61-59d2d895e94e">
+    <name>РезультатЭкспертизы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Результат экспертизы</value>
+    </synonym>
+    <type>
+      <types>EnumRef.РезультатыЭкспертизы</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="5456eb15-dc42-4b65-bd7b-18e4a1e756e6">
+    <name>ИтоговыйБалл</name>
+    <synonym>
+      <key>ru</key>
+      <value>Итоговый балл</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>6</precision>
+        <scale>2</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="9f061c29-65a1-4c74-9817-c6fe16910d1e">
+    <producedTypes>
+      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
+      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+    </producedTypes>
+    <name>Баллы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Баллы</value>
+    </synonym>
+    <attributes uuid="de4472b9-09ee-4710-ac20-f29a56723b21">
+      <name>Критерий</name>
+      <synonym>
+        <key>ru</key>
+        <value>Критерий</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.КритерииОценки</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="35291139-9395-47e4-9a94-6e6172572378">
+      <name>Балл</name>
+      <synonym>
+        <key>ru</key>
+        <value>Балл</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>5</precision>
+          <scale>2</scale>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="c461153c-8389-460c-99bb-9581aa2b3f9e">
+      <name>Комментарий</name>
+      <synonym>
+        <key>ru</key>
+        <value>Комментарий</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>500</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <lineNumberLength>9</lineNumberLength>
+  </tabularSections>
+</mdclass:Document>

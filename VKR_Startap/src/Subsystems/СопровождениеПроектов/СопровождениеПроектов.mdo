@@ -9,4 +9,8 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.ВидыМероприятий</content>
   <content>Catalog.ЭтапыПроекта</content>
+  <content>Document.НазначениеКуратора</content>
+  <content>Document.ОтчетПоЭтапу</content>
+  <content>Document.ПланРазвитияПроекта</content>
+  <content>Document.ПроектноеМероприятие</content>
 </mdclass:Subsystem>

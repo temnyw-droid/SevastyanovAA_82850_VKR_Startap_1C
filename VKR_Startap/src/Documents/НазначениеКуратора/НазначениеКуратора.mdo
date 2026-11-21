@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="eef6a591-5903-46d0-b903-099efadf9bdd">
+  <producedTypes>
+    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
+    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
+    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
+    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
+    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+  </producedTypes>
+  <name>НазначениеКуратора</name>
+  <synonym>
+    <key>ru</key>
+    <value>Назначение куратора</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.НазначениеКуратора.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="521555a7-4c33-4b40-beb7-0bef830ae256">
+    <name>Проект</name>
+    <synonym>
+      <key>ru</key>
+      <value>Проект</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Проекты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="6fa51599-24d1-4cea-bdd4-f566008566c7">
+    <name>Сотрудник</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сотрудник</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Сотрудники</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="36af58a5-41f1-4350-844d-ad9550e1af61">
+    <name>РольКуратора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Роль куратора</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>30</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Document>

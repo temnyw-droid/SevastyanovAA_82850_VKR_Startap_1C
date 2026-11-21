@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="77534e0e-ca37-43ae-bf87-d9187385d109">
+  <producedTypes>
+    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
+    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
+    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
+    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
+    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+  </producedTypes>
+  <name>ЗаявкаНаУчастие</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заявка на участие</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ЗаявкаНаУчастие.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="838502f5-c0bf-4486-b227-75b78e91492a">
+    <name>Проект</name>
+    <synonym>
+      <key>ru</key>
+      <value>Проект</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Проекты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="b2ce79e6-b8e2-4a23-b55b-9763612aa9a3">
+    <name>СтадияПроекта</name>
+    <synonym>
+      <key>ru</key>
+      <value>Стадия проекта</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>30</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="6b4171b1-4651-4a69-9385-b703f7650c9f">
+    <name>РезультатЭкспертизы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Результат экспертизы</value>
+    </synonym>
+    <type>
+      <types>EnumRef.РезультатыЭкспертизы</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="59377da1-65d8-48df-b116-1dfb73710561">
+    <name>ИтоговыйБалл</name>
+    <synonym>
+      <key>ru</key>
+      <value>Итоговый балл</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>6</precision>
+        <scale>2</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="c80d4d72-44bf-47c1-9b9b-7255c2718490">
+    <name>Ответственный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ответственный</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Сотрудники</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <tabularSections uuid="63346bd9-231d-41ef-9245-404584076a3c">
+    <producedTypes>
+      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
+      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+    </producedTypes>
+    <name>СоставКоманды</name>
+    <synonym>
+      <key>ru</key>
+      <value>Состав команды</value>
+    </synonym>
+    <attributes uuid="15ad0a5f-145d-496f-abf4-e87b304fdb32">
+      <name>Студент</name>
+      <synonym>
+        <key>ru</key>
+        <value>Студент</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.Студенты</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="4417f293-3b7e-4f39-a928-774e6b2fd3b9">
+      <name>Роль</name>
+      <synonym>
+        <key>ru</key>
+        <value>Роль</value>
+      </synonym>
+      <type>
+        <types>EnumRef.РолиУчастниковКоманды</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <lineNumberLength>9</lineNumberLength>
+  </tabularSections>
+</mdclass:Document>
