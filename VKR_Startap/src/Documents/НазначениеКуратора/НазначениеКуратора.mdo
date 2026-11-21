@@ -25,6 +25,7 @@
   <autonumbering>true</autonumbering>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <registerRecords>InformationRegister.КураторыПроектов</registerRecords>
   <attributes uuid="521555a7-4c33-4b40-beb7-0bef830ae256">
     <name>Проект</name>
     <synonym>

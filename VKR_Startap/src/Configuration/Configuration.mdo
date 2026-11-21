@@ -43,6 +43,9 @@
   <subsystems>Subsystem.ПроектныйОфис</subsystems>
   <subsystems>Subsystem.СопровождениеПроектов</subsystems>
   <subsystems>Subsystem.ЭкспертизаИОценка</subsystems>
+  <constants>Constant.Организация</constants>
+  <constants>Constant.ПроходнойБаллДопуска</constants>
+  <constants>Constant.ТекущийНабор</constants>
   <catalogs>Catalog.Аудитории</catalogs>
   <catalogs>Catalog.ВидыМероприятий</catalogs>
   <catalogs>Catalog.ИсточникиФинансирования</catalogs>
@@ -74,4 +77,9 @@
   <enums>Enum.РолиУчастниковКоманды</enums>
   <enums>Enum.СтатусыПроекта</enums>
   <enums>Enum.ТипыМероприятий</enums>
+  <informationRegisters>InformationRegister.КураторыПроектов</informationRegisters>
+  <informationRegisters>InformationRegister.СтатусыПроектов</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.БаллыПроектов</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.УчастиеВМероприятиях</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ФинансированиеПроектов</accumulationRegisters>
 </mdclass:Configuration>

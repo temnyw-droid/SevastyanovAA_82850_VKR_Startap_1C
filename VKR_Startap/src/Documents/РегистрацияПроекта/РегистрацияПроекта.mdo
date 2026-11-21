@@ -25,6 +25,8 @@
   <autonumbering>true</autonumbering>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <registerRecords>InformationRegister.СтатусыПроектов</registerRecords>
+  <registerRecords>AccumulationRegister.ФинансированиеПроектов</registerRecords>
   <attributes uuid="1f3c391f-5a53-4b38-b3ea-6a0ee0dd95ad">
     <name>Проект</name>
     <synonym>
@@ -105,6 +107,51 @@
       </synonym>
       <type>
         <types>EnumRef.РолиУчастниковКоманды</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <lineNumberLength>9</lineNumberLength>
+  </tabularSections>
+  <tabularSections uuid="446e1294-e266-4bcd-aa15-772df3daafa6">
+    <producedTypes>
+      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
+      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+    </producedTypes>
+    <name>Финансирование</name>
+    <synonym>
+      <key>ru</key>
+      <value>Финансирование</value>
+    </synonym>
+    <attributes uuid="7112dfa3-918d-472e-a600-36dcd8d6b41e">
+      <name>ИсточникФинансирования</name>
+      <synonym>
+        <key>ru</key>
+        <value>Источник финансирования</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.ИсточникиФинансирования</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="88527bb7-5b9a-41ac-9cd5-b5bc7e7d8a46">
+      <name>СуммаВыделено</name>
+      <synonym>
+        <key>ru</key>
+        <value>Сумма выделено</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>15</precision>
+          <scale>2</scale>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>

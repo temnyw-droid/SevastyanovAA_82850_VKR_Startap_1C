@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="67c26639-0c1a-48de-9927-6e4a3bf9d542">
+  <producedTypes>
+    <managerType typeId="71206e22-77f6-4de3-8ebe-bf67be81d1ac" valueTypeId="79ecef47-695c-41f3-bae0-ad4de72da6bd"/>
+    <valueManagerType typeId="19947c41-3684-4a2c-b06f-6ec120b8f361" valueTypeId="3fb25c21-8127-4a52-b689-d3f1a447e91b"/>
+    <valueKeyType typeId="d10e4b39-c39c-4bbb-987a-6860c58e3d41" valueTypeId="b0fb1c02-a009-4730-8841-75413511b82e"/>
+  </producedTypes>
+  <name>ТекущийНабор</name>
+  <synonym>
+    <key>ru</key>
+    <value>Текущий набор</value>
+  </synonym>
+  <type>
+      <types>CatalogRef.НаборыПроектов</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

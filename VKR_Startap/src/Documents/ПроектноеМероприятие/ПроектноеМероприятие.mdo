@@ -25,6 +25,7 @@
   <autonumbering>true</autonumbering>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <registerRecords>AccumulationRegister.УчастиеВМероприятиях</registerRecords>
   <attributes uuid="286e16eb-e94c-4c7c-8682-930c1fb43ea2">
     <name>ВидМероприятия</name>
     <synonym>

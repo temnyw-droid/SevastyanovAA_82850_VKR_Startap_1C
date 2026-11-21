@@ -7,10 +7,12 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <content>AccumulationRegister.УчастиеВМероприятиях</content>
   <content>Catalog.ВидыМероприятий</content>
   <content>Catalog.ЭтапыПроекта</content>
   <content>Document.НазначениеКуратора</content>
   <content>Document.ОтчетПоЭтапу</content>
   <content>Document.ПланРазвитияПроекта</content>
   <content>Document.ПроектноеМероприятие</content>
+  <content>InformationRegister.КураторыПроектов</content>
 </mdclass:Subsystem>

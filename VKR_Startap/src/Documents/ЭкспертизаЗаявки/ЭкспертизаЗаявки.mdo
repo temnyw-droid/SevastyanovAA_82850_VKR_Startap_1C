@@ -25,6 +25,7 @@
   <autonumbering>true</autonumbering>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <registerRecords>AccumulationRegister.БаллыПроектов</registerRecords>
   <attributes uuid="3de49876-6c54-41d5-8596-349171ade563">
     <name>Заявка</name>
     <synonym>

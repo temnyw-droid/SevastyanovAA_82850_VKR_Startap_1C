@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b9d08218-b7fa-4349-9c17-d062d84ac58a">
+  <producedTypes>
+    <selectionType typeId="bc823571-afb2-48c3-9c5f-ffd679515bd7" valueTypeId="ce8ab800-373d-40c6-bd8b-7555f8763c14"/>
+    <listType typeId="e52af54f-4d87-4c85-8955-8c1077d55477" valueTypeId="ba437430-c21e-43b7-9191-44124e42c266"/>
+    <managerType typeId="8b81ffa5-acde-4f70-860f-cf7ef98df7f2" valueTypeId="587cdbc0-4afc-44c7-aadf-426cd3ffc2ea"/>
+    <recordSetType typeId="8753cfaa-4db9-4fde-b2ab-1b429f4ea961" valueTypeId="92f9e3f9-1a1c-4110-8150-6828d33299ac"/>
+    <recordKeyType typeId="6ab1e024-299f-43ad-b8bc-e3e8d917353b" valueTypeId="c3d3e65d-74c4-40ae-8d34-1b97e73bbdb4"/>
+    <recordType typeId="1f4614db-4722-4954-b2df-e46e4aaa3905" valueTypeId="0018278c-764d-4785-b7c2-1a2b70adb26c"/>
+    <recordManagerType typeId="ede12ffa-d265-4e55-a24c-2766a368eddd" valueTypeId="98d0f9c9-4200-4ebb-97ce-80fec1f52fab"/>
+  </producedTypes>
+  <name>СтатусыПроектов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Статусы проектов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <informationRegisterPeriodicity>Day</informationRegisterPeriodicity>
+  <writeMode>RecorderSubordinate</writeMode>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="7b98ad4d-ff79-4d74-89d4-119222bf78f0">
+    <name>Статус</name>
+    <synonym>
+      <key>ru</key>
+      <value>Статус</value>
+    </synonym>
+    <type>
+      <types>EnumRef.СтатусыПроекта</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="9eae63ef-33d6-4594-b74a-2e4f51ab606d">
+    <name>Комментарий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Комментарий</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>500</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:StringValue"/>
+  </resources>
+  <dimensions uuid="b86ae030-1b43-4c55-9ce5-fa9865ba9adf">
+    <name>Проект</name>
+    <synonym>
+      <key>ru</key>
+      <value>Проект</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Проекты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

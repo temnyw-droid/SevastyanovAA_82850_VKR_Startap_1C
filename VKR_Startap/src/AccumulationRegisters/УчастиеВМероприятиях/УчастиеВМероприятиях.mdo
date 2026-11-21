@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1b8b08c9-eb0a-4435-bfa3-e0b0b0934d33">
+  <producedTypes>
+    <selectionType typeId="b768bc97-ab80-456f-b571-3689e04b6539" valueTypeId="afc7668a-75ee-4fb9-8cf3-b09c6a733251"/>
+    <listType typeId="5f5ea26b-56c5-44bc-bd01-9c4015d1de9d" valueTypeId="7ca771d4-1971-4ddb-a794-8daa57c42100"/>
+    <managerType typeId="8638801b-4f8f-4c9e-9766-01658316eb9d" valueTypeId="d1ed19ed-f582-4757-ba2f-9c6f27bfb84c"/>
+    <recordSetType typeId="9b1d6455-6178-4531-99a0-916b68f8efd5" valueTypeId="756ea5bc-e4d6-44dd-b1f1-67e7b21edab7"/>
+    <recordKeyType typeId="d8388671-9d5f-4765-a08b-4c03406a7f03" valueTypeId="187edc93-e23f-442b-b2c9-6cad16162761"/>
+    <recordType typeId="1128cf14-ff3c-4c14-ba93-1be728751ea7" valueTypeId="948013ef-ab8c-4733-a7d2-9b5e68427d53"/>
+  </producedTypes>
+  <name>УчастиеВМероприятиях</name>
+  <synonym>
+    <key>ru</key>
+    <value>Участие в мероприятиях</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <registerType>Turnovers</registerType>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <resources uuid="13b09be0-2fd7-4f17-abc3-5fb036c6cc61">
+    <name>Количество</name>
+    <synonym>
+      <key>ru</key>
+      <value>Количество</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>5</precision>
+        <scale>0</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <dimensions uuid="f23d3bb7-85c1-4c99-82bf-ecfe543de07c">
+    <name>Проект</name>
+    <synonym>
+      <key>ru</key>
+      <value>Проект</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Проекты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
+  <dimensions uuid="d804f8c5-39d4-49f2-81a2-de38701da25f">
+    <name>Студент</name>
+    <synonym>
+      <key>ru</key>
+      <value>Студент</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Студенты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
+  <dimensions uuid="ddccf0aa-c6a7-4210-b002-c2dedcd1d136">
+    <name>ВидМероприятия</name>
+    <synonym>
+      <key>ru</key>
+      <value>Вид мероприятия</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВидыМероприятий</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
+</mdclass:AccumulationRegister>

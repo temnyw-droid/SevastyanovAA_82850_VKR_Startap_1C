@@ -15,4 +15,7 @@
   <content>Catalog.Студенты</content>
   <content>Catalog.УчебныеГруппы</content>
   <content>Catalog.ШаблоныДокументов</content>
+  <content>Constant.Организация</content>
+  <content>Constant.ПроходнойБаллДопуска</content>
+  <content>Constant.ТекущийНабор</content>
 </mdclass:Subsystem>

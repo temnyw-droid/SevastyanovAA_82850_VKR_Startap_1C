@@ -25,6 +25,8 @@
   <autonumbering>true</autonumbering>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <registerRecords>AccumulationRegister.БаллыПроектов</registerRecords>
+  <registerRecords>InformationRegister.СтатусыПроектов</registerRecords>
   <attributes uuid="1016cca3-567d-4a8b-8036-1dff2c43f478">
     <name>Проект</name>
     <synonym>
