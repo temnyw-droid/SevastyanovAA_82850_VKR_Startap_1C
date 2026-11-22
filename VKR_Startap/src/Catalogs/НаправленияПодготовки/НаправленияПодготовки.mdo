@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Направления подготовки</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Направления подготовки</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Направление подготовки</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.НаправленияПодготовки.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.НаправленияПодготовки.StandardAttribute.Description</inputByString>

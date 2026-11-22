@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Критерии оценки</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Критерии оценки</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Критерий оценки</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.КритерииОценки.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.КритерииОценки.StandardAttribute.Description</inputByString>

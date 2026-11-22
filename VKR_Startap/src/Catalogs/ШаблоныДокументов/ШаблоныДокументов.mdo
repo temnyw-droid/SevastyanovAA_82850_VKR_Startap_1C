@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Шаблоны документов</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Шаблоны документов</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Шаблон документа</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.ШаблоныДокументов.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.ШаблоныДокументов.StandardAttribute.Description</inputByString>

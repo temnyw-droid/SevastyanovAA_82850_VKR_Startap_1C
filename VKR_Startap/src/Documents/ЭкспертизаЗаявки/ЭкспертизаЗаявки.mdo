@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Экспертиза заявки</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Экспертизы заявок</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Экспертиза заявки</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ЭкспертизаЗаявки.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>

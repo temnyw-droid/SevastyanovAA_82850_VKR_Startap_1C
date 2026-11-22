@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Учебные группы</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Учебные группы</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Учебная группа</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.УчебныеГруппы.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.УчебныеГруппы.StandardAttribute.Description</inputByString>

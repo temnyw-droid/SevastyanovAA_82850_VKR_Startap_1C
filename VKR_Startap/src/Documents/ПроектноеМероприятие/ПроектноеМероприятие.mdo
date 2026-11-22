@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Проектное мероприятие</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Проектные мероприятия</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Проектное мероприятие</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ПроектноеМероприятие.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>

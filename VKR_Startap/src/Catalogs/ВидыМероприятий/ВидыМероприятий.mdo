@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Виды мероприятий</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Виды мероприятий</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Вид мероприятия</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.ВидыМероприятий.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.ВидыМероприятий.StandardAttribute.Description</inputByString>

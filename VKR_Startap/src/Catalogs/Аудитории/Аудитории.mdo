@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Аудитории</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Аудитории</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Аудитория</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Аудитории.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.Аудитории.StandardAttribute.Description</inputByString>

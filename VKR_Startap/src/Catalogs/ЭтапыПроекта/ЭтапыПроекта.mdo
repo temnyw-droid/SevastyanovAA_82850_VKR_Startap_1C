@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Этапы проекта</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Этапы проекта</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Этап проекта</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.ЭтапыПроекта.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.ЭтапыПроекта.StandardAttribute.Description</inputByString>

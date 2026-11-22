@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Регистрация проекта</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Регистрации проектов</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Регистрация проекта</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.РегистрацияПроекта.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
@@ -63,10 +71,11 @@
       <key>ru</key>
       <value>Комментарий</value>
     </synonym>
+    <multiLine>true</multiLine>
     <type>
       <types>String</types>
       <stringQualifiers>
-        <length>500</length>
+        <length>0</length>
       </stringQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>

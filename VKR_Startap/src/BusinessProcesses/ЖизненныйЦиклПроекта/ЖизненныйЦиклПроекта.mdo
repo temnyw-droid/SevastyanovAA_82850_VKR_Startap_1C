@@ -13,6 +13,14 @@
     <key>ru</key>
     <value>Жизненный цикл проекта</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Жизненные циклы проектов</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Жизненный цикл проекта</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>BusinessProcess.ЖизненныйЦиклПроекта.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>

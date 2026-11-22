@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Показатели эффективности</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Показатели эффективности</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Показатель эффективности</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.ПоказателиЭффективности.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.ПоказателиЭффективности.StandardAttribute.Description</inputByString>

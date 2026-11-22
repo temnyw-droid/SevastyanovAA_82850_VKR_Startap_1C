@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Пользователи</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Пользователи</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Пользователь</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Пользователи.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.Пользователи.StandardAttribute.Description</inputByString>

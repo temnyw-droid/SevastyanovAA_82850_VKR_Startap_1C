@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>План развития проекта</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Планы развития проектов</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>План развития проекта</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ПланРазвитияПроекта.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>

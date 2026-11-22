@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Заявка на изменение проекта</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Заявки на изменение проекта</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Заявка на изменение проекта</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ЗаявкаНаИзменениеПроекта.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>

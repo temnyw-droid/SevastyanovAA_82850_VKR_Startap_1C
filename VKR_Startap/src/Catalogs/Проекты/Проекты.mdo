@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Проекты</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Проекты</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Проект</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Проекты.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.Проекты.StandardAttribute.Description</inputByString>

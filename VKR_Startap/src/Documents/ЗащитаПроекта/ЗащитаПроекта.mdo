@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Защита проекта</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Защиты проектов</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Защита проекта</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ЗащитаПроекта.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>

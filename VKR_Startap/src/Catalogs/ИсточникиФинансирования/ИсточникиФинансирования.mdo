@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Источники финансирования</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Источники финансирования</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Источник финансирования</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.ИсточникиФинансирования.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.ИсточникиФинансирования.StandardAttribute.Description</inputByString>

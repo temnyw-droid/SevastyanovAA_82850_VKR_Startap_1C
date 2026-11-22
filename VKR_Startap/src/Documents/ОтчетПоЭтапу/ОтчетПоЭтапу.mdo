@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Отчет по этапу</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Отчеты по этапам</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Отчет по этапу</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ОтчетПоЭтапу.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>

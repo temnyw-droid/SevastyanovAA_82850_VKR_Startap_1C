@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Допуск к защите</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Допуски к защите</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Допуск к защите</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ДопускКЗащите.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
@@ -62,10 +70,11 @@
       <key>ru</key>
       <value>Комментарий</value>
     </synonym>
+    <multiLine>true</multiLine>
     <type>
       <types>String</types>
       <stringQualifiers>
-        <length>500</length>
+        <length>0</length>
       </stringQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>

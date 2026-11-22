@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Заявка на участие</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Заявки на участие</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Заявка на участие</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ЗаявкаНаУчастие.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>

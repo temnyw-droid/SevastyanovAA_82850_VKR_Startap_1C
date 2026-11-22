@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Партнеры проектов</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Партнеры проектов</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Партнер проектов</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.ПартнерыПроектов.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.ПартнерыПроектов.StandardAttribute.Description</inputByString>

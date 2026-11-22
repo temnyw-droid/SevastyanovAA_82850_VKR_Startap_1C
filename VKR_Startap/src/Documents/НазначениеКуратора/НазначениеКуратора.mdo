@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Назначение куратора</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Назначения кураторов</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Назначение куратора</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.НазначениеКуратора.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>

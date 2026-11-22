@@ -12,6 +12,14 @@
     <key>ru</key>
     <value>Задача исполнителю</value>
   </synonym>
+  <listPresentation>
+    <key>ru</key>
+    <value>Задачи исполнителям</value>
+  </listPresentation>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Задача исполнителю</value>
+  </objectPresentation>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Task.ЗадачаИсполнителю.StandardAttribute.Number</inputByString>
   <inputByString>Task.ЗадачаИсполнителю.StandardAttribute.Description</inputByString>
