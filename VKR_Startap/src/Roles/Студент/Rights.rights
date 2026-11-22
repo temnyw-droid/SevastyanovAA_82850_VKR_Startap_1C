@@ -41,6 +41,14 @@
 			<name>SaveUserData</name>
 			<value>true</value>
 		</right>
+		<right>
+			<name>InteractiveOpenExternalDataProcessors</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>InteractiveOpenExternalReports</name>
+			<value>false</value>
+		</right>
 	</object>
 	<object>
 		<name>Catalog.Проекты</name>
@@ -74,6 +82,10 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>InteractiveClearDeletionMarkPredefinedData</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -111,6 +123,10 @@
 			<name>InteractiveDeleteMarkedPredefinedData</name>
 			<value>false</value>
 		</right>
+		<right>
+			<name>InteractiveClearDeletionMarkPredefinedData</name>
+			<value>false</value>
+		</right>
 	</object>
 	<object>
 		<name>Catalog.УчебныеГруппы</name>
@@ -144,6 +160,10 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>InteractiveClearDeletionMarkPredefinedData</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -181,6 +201,10 @@
 			<name>InteractiveDeleteMarkedPredefinedData</name>
 			<value>false</value>
 		</right>
+		<right>
+			<name>InteractiveClearDeletionMarkPredefinedData</name>
+			<value>false</value>
+		</right>
 	</object>
 	<object>
 		<name>Catalog.ЭтапыПроекта</name>
@@ -214,6 +238,10 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>InteractiveClearDeletionMarkPredefinedData</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -421,7 +449,7 @@
 		</right>
 		<right>
 			<name>Delete</name>
-			<value>true</value>
+			<value>false</value>
 		</right>
 		<right>
 			<name>View</name>
@@ -441,7 +469,7 @@
 		</right>
 		<right>
 			<name>InteractiveDelete</name>
-			<value>true</value>
+			<value>false</value>
 		</right>
 		<right>
 			<name>InputByString</name>
