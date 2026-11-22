@@ -16,6 +16,9 @@
     "right-start-web-client": {
       "enabled": false
     },
+    "reading-attribute-from-database": {
+      "enabled": false
+    },
     "right-interactive-open-external-reports": {
       "enabled": false
     },

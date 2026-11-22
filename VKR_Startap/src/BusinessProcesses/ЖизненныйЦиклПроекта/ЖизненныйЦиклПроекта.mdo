@@ -35,4 +35,37 @@
   <autonumbering>true</autonumbering>
   <task>Task.ЗадачаИсполнителю</task>
   <createTaskInPrivilegedMode>true</createTaskInPrivilegedMode>
+  <attributes uuid="a12de0bb-9438-4754-965d-6ddce881bd1c">
+    <name>Проект</name>
+    <synonym>
+      <key>ru</key>
+      <value>Проект</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Проекты</types>
+    </type>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="d402e07c-787f-4b58-bf79-7aa51b807902">
+    <name>ЭкспертизаПройдена</name>
+    <synonym>
+      <key>ru</key>
+      <value>Экспертиза пройдена</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="34c26174-f987-48f6-b4ab-c16dbf177218">
+    <name>ЭтапыЗавершены</name>
+    <synonym>
+      <key>ru</key>
+      <value>Этапы завершены</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:BusinessProcess>
