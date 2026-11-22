@@ -12,6 +12,13 @@
     <key>ru</key>
     <value>Студенты</value>
   </synonym>
+  <standardAttributes>
+    <name>Parent</name>
+    <synonym>
+      <key>ru</key>
+      <value>Группа</value>
+    </synonym>
+  </standardAttributes>
   <listPresentation>
     <key>ru</key>
     <value>Студенты</value>

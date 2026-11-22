@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "settings": {
+    "right-interactive-open-external-data-processors": {
+      "enabled": false
+    },
+    "common-module-name-server-call-cached": {
+      "enabled": false
+    },
+    "right-start-thin-client": {
+      "enabled": false
+    },
+    "common-module-name-server-call": {
+      "enabled": false
+    },
+    "right-start-web-client": {
+      "enabled": false
+    },
+    "right-interactive-open-external-reports": {
+      "enabled": false
+    },
+    "right-save-user-data": {
+      "enabled": false
+    }
+  }
+}

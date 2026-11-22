@@ -122,6 +122,25 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="3e26b3da-cc79-4915-9052-76405501af4b">
+    <name>Комментарий</name>
+    <synonym>
+      <key>ru</key>
+      <value>Комментарий</value>
+    </synonym>
+    <multiLine>true</multiLine>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>0</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="9f061c29-65a1-4c74-9817-c6fe16910d1e">
     <producedTypes>
       <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
