@@ -10,4 +10,13 @@
     <value>Рейтинг проектов набора</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.РейтингПроектовНабора.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="9a252a7a-9d1e-4822-a2ab-3a144ca71114">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
 </mdclass:Report>

@@ -10,4 +10,13 @@
     <value>Загрузка кураторов</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ЗагрузкаКураторов.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="070c57b3-afbd-4821-ab8a-d461f439338c">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
 </mdclass:Report>

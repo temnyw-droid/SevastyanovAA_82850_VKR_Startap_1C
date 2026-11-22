@@ -10,4 +10,13 @@
     <value>Сводная ведомость проектов</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.СводнаяВедомостьПроектов.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="e7d1c8fe-ca8c-412c-b469-a072b6c4cbf9">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
 </mdclass:Report>
