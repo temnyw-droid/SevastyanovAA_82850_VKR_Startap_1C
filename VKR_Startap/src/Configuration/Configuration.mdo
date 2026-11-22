@@ -43,6 +43,13 @@
   <subsystems>Subsystem.ПроектныйОфис</subsystems>
   <subsystems>Subsystem.СопровождениеПроектов</subsystems>
   <subsystems>Subsystem.ЭкспертизаИОценка</subsystems>
+  <roles>Role.АдминистраторСистемы</roles>
+  <roles>Role.Куратор</roles>
+  <roles>Role.СотрудникПроектногоОфиса</roles>
+  <roles>Role.Студент</roles>
+  <roles>Role.Эксперт</roles>
+  <commonModules>CommonModule.ПроведениеДокументов</commonModules>
+  <commonModules>CommonModule.ПроектныйУчет</commonModules>
   <constants>Constant.Организация</constants>
   <constants>Constant.ПроходнойБаллДопуска</constants>
   <constants>Constant.ТекущийНабор</constants>
@@ -77,9 +84,19 @@
   <enums>Enum.РолиУчастниковКоманды</enums>
   <enums>Enum.СтатусыПроекта</enums>
   <enums>Enum.ТипыМероприятий</enums>
+  <reports>Report.ДинамикаВыполненияЭтапов</reports>
+  <reports>Report.ЗагрузкаКураторов</reports>
+  <reports>Report.ПосещаемостьМероприятий</reports>
+  <reports>Report.РейтингПроектовНабора</reports>
+  <reports>Report.СводнаяВедомостьПроектов</reports>
+  <reports>Report.ФинансированиеПоНаправлениям</reports>
+  <dataProcessors>DataProcessor.ЗагрузкаСтудентовИзExcel</dataProcessors>
+  <dataProcessors>DataProcessor.РабочийСтолКуратора</dataProcessors>
   <informationRegisters>InformationRegister.КураторыПроектов</informationRegisters>
   <informationRegisters>InformationRegister.СтатусыПроектов</informationRegisters>
   <accumulationRegisters>AccumulationRegister.БаллыПроектов</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.УчастиеВМероприятиях</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ФинансированиеПроектов</accumulationRegisters>
+  <businessProcesses>BusinessProcess.ЖизненныйЦиклПроекта</businessProcesses>
+  <tasks>Task.ЗадачаИсполнителю</tasks>
 </mdclass:Configuration>

@@ -8,6 +8,7 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>AccumulationRegister.ФинансированиеПроектов</content>
+  <content>BusinessProcess.ЖизненныйЦиклПроекта</content>
   <content>Catalog.ИсточникиФинансирования</content>
   <content>Catalog.НаборыПроектов</content>
   <content>Catalog.ПартнерыПроектов</content>
@@ -16,4 +17,5 @@
   <content>Document.ЗаявкаНаУчастие</content>
   <content>Document.РегистрацияПроекта</content>
   <content>InformationRegister.СтатусыПроектов</content>
+  <content>Task.ЗадачаИсполнителю</content>
 </mdclass:Subsystem>

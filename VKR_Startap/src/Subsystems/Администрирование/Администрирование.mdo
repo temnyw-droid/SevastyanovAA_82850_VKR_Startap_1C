@@ -18,4 +18,5 @@
   <content>Constant.Организация</content>
   <content>Constant.ПроходнойБаллДопуска</content>
   <content>Constant.ТекущийНабор</content>
+  <content>DataProcessor.ЗагрузкаСтудентовИзExcel</content>
 </mdclass:Subsystem>

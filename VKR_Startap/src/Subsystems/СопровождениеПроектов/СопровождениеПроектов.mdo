@@ -10,6 +10,7 @@
   <content>AccumulationRegister.УчастиеВМероприятиях</content>
   <content>Catalog.ВидыМероприятий</content>
   <content>Catalog.ЭтапыПроекта</content>
+  <content>DataProcessor.РабочийСтолКуратора</content>
   <content>Document.НазначениеКуратора</content>
   <content>Document.ОтчетПоЭтапу</content>
   <content>Document.ПланРазвитияПроекта</content>

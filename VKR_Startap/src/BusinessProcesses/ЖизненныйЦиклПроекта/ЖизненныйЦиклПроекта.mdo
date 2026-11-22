@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:BusinessProcess xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="060a0b97-d562-47ab-adf6-9e6ab3268a68">
+  <producedTypes>
+    <objectType typeId="2599b5c7-f011-4520-9372-465036fcfe93" valueTypeId="e7f17fb0-3608-43cd-aefb-bb3922835798"/>
+    <refType typeId="fcda0abb-886d-4574-be35-696c907b5f4d" valueTypeId="3c5e6df1-8655-4a6a-94a5-f52fa117624e"/>
+    <selectionType typeId="621cc003-f1f5-4fec-9b74-42b494d410d2" valueTypeId="224eec5e-ad00-4e4d-9527-c37471238117"/>
+    <listType typeId="6034873e-e33c-4911-84d6-74c5fd44804f" valueTypeId="cfe4fc9e-20aa-4294-82b6-72f2d6125d62"/>
+    <managerType typeId="7b87e4c4-7c9d-4549-a862-4f2f3fe2cf92" valueTypeId="87fa7464-0fab-413b-ab74-784471511684"/>
+    <routePointRef typeId="d2fca713-304a-41bd-b8e4-f77c7d5dc611" valueTypeId="8d510435-44a9-4355-828e-8875f213b57e"/>
+  </producedTypes>
+  <name>ЖизненныйЦиклПроекта</name>
+  <synonym>
+    <key>ru</key>
+    <value>Жизненный цикл проекта</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>BusinessProcess.ЖизненныйЦиклПроекта.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <editType>InDialog</editType>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <task>Task.ЗадачаИсполнителю</task>
+  <createTaskInPrivilegedMode>true</createTaskInPrivilegedMode>
+</mdclass:BusinessProcess>

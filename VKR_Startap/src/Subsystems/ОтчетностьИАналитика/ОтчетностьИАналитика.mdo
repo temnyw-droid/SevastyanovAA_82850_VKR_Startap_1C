@@ -8,4 +8,10 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.ПоказателиЭффективности</content>
+  <content>Report.ДинамикаВыполненияЭтапов</content>
+  <content>Report.ЗагрузкаКураторов</content>
+  <content>Report.ПосещаемостьМероприятий</content>
+  <content>Report.РейтингПроектовНабора</content>
+  <content>Report.СводнаяВедомостьПроектов</content>
+  <content>Report.ФинансированиеПоНаправлениям</content>
 </mdclass:Subsystem>

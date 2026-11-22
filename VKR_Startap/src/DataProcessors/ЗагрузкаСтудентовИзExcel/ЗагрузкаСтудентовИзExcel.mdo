@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a71e6f53-e9f8-413b-8ab6-14b235286f70">
+  <producedTypes>
+    <objectType typeId="5b830725-5fb1-46c8-94c9-b05ec440d6f5" valueTypeId="85b64382-dbf2-4f05-b592-264391fdb386"/>
+    <managerType typeId="3485115d-2a71-45a6-89a8-5930786ccd26" valueTypeId="c5e43800-04ae-4e89-b338-040d2a29fd1a"/>
+  </producedTypes>
+  <name>ЗагрузкаСтудентовИзExcel</name>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка студентов из excel</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

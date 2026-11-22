@@ -14,8 +14,8 @@
     <value>Баллы проектов</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <dataLockControlMode>Managed</dataLockControlMode>
   <registerType>Turnovers</registerType>
+  <dataLockControlMode>Managed</dataLockControlMode>
   <enableTotalsSplitting>true</enableTotalsSplitting>
   <resources uuid="77cd4eae-7ef0-429a-9b4c-910024767b60">
     <name>Баллы</name>
