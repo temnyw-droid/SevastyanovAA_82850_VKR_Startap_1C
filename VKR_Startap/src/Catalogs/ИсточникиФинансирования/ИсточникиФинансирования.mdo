@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="901f26fe-942c-42e1-98ea-c4def2577d50">
   <producedTypes>
-    <objectType typeId="d4fd2af7-aed3-449f-bf12-6f238df9be15" valueTypeId="876ff3cf-3963-473e-abc9-ad6e410ebfd5"/>
-    <refType typeId="c4338030-fef6-4343-8ad7-a0df6ad46f0a" valueTypeId="f3da2a96-98b1-42ae-ab74-7323564b34fe"/>
-    <selectionType typeId="d1eb58d9-8c77-4169-b03c-a38d848825aa" valueTypeId="618a9942-af55-4412-b9de-7a060ee5df2c"/>
-    <listType typeId="1c0c11e0-efa3-4498-845a-5d1b6aa95541" valueTypeId="314a5853-a13f-4188-bd4a-ec85606f8db4"/>
-    <managerType typeId="d7bc945d-4252-4ce5-a08b-0d4e594dba16" valueTypeId="746a15e4-e620-48f2-9960-12593a1a48cb"/>
+    <objectType typeId="fcf51b2c-9a47-495e-8c68-538ce16bf329" valueTypeId="6f404269-7e4d-45d8-866e-6aad591b9ffe"/>
+    <refType typeId="d9e7e6e5-8cb5-4c68-ad31-208104f20fc2" valueTypeId="325810df-6547-4605-b3ee-79cd1989a798"/>
+    <selectionType typeId="9ff8fe30-af30-4115-8165-051fc5ae04d0" valueTypeId="59dcd231-1f20-4b9f-ae9b-e354876ebbdc"/>
+    <listType typeId="49c7cf0a-95a8-47b1-a92c-bc0297c07e69" valueTypeId="c27dacea-69d2-40b1-95de-308ca136e37a"/>
+    <managerType typeId="4c287635-f34d-42b6-b1ea-cc8f5bc919fd" valueTypeId="a527e91d-5f8a-4c32-b85e-bedad0632ba5"/>
   </producedTypes>
   <name>ИсточникиФинансирования</name>
   <synonym>

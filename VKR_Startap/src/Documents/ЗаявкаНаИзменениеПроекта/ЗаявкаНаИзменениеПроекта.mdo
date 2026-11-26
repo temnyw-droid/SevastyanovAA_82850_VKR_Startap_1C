@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9239b9f9-ade2-45c8-aa08-6624e045c96c">
   <producedTypes>
-    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
-    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
-    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
-    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
-    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+    <objectType typeId="ed9cbb82-c45c-491c-9799-a6b52ad6af69" valueTypeId="da6576f6-b02e-41b8-8ec7-14434bd0dc45"/>
+    <refType typeId="6e635938-86de-40a0-bd6c-f30e0fc1c06e" valueTypeId="c69458b9-f9a0-4f30-8861-36f3a046a0e7"/>
+    <selectionType typeId="4a663cf0-aa60-4e42-89a6-a7bd558df2d8" valueTypeId="dc88488b-ad44-4350-83b2-ddddd0c8ec44"/>
+    <listType typeId="d42068e6-ca74-4349-826c-96091e88aae0" valueTypeId="e8b25973-0507-4b5f-805d-c326996c5bd0"/>
+    <managerType typeId="9e2c8f9f-839c-4fa2-b7a1-665aea0957a3" valueTypeId="54bdfeaa-e607-4f2f-800d-4e3bbf20a228"/>
   </producedTypes>
   <name>ЗаявкаНаИзменениеПроекта</name>
   <synonym>
@@ -121,8 +121,8 @@
   </attributes>
   <tabularSections uuid="520c6a76-8a0b-4f15-9c76-f61ec0ee9da4">
     <producedTypes>
-      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
-      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+      <objectType typeId="e727bd51-e678-40a3-ae99-50953f14ec1c" valueTypeId="40e31101-7061-4363-a35a-92f17be6cb87"/>
+      <rowType typeId="745cf72d-7d23-41ff-aad8-54f20ed8333b" valueTypeId="fe966f8c-93db-47ac-bc6d-c81012b10551"/>
     </producedTypes>
     <name>ИзмененияСостава</name>
     <synonym>

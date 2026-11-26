@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7e29ff35-848e-4f28-9edc-92bcc96d8913">
   <producedTypes>
-    <objectType typeId="a5e4bf2b-2679-42fd-86d5-59b12c6d565b" valueTypeId="3c06363e-db6e-41d8-bbf5-db5d92d427f5"/>
-    <managerType typeId="3bba16c4-7ac2-409c-9513-12a03614a608" valueTypeId="df24941c-b74f-4870-8b1b-2a8ca31fbff9"/>
+    <objectType typeId="97eafa92-5566-4cb9-a99b-644d0ada31fd" valueTypeId="b3016f53-c742-4329-9cc0-ada2f65e66dc"/>
+    <managerType typeId="290bb036-adca-4aeb-8a3f-09b135b9644e" valueTypeId="f653fade-566f-4298-abd6-7ce67a0cf11b"/>
   </producedTypes>
   <name>ЗагрузкаКураторов</name>
   <synonym>

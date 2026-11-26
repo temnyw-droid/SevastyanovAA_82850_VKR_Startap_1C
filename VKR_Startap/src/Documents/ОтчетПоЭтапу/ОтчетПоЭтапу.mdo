@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="686f6aab-6551-4554-b063-e2be5f618fa0">
   <producedTypes>
-    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
-    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
-    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
-    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
-    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+    <objectType typeId="97df481d-a718-46be-bad8-c1ad61aad5bf" valueTypeId="686e3b1a-e30a-4a8b-8b50-f564d539d265"/>
+    <refType typeId="4e854f4f-7cdf-4802-bb5d-43a92563cf18" valueTypeId="d4a94891-8eb7-498b-8069-c479d685b7b2"/>
+    <selectionType typeId="264a635b-4ed7-4b81-8c23-f0c77f3adc25" valueTypeId="6bbaecd5-4fbb-4a87-aafc-4e68118728c0"/>
+    <listType typeId="53547e88-ec0c-4a0b-844d-fd47a4e933ed" valueTypeId="6c4c37e0-fe88-4f96-bf3c-bead5080471c"/>
+    <managerType typeId="2406edfa-e27e-4278-8ec7-b39d0cbf4bf9" valueTypeId="b597bd0a-66ea-4a70-a832-440a2b33f7ae"/>
   </producedTypes>
   <name>ОтчетПоЭтапу</name>
   <synonym>
@@ -121,8 +121,8 @@
   </attributes>
   <tabularSections uuid="8c17b4d3-005a-4c8c-861e-10f3edc5a211">
     <producedTypes>
-      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
-      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+      <objectType typeId="a90b6608-960e-4d95-9001-4665e587d081" valueTypeId="4e1dfc4a-4c16-46db-8aa3-c98cd955db4c"/>
+      <rowType typeId="7b64ee44-3cb0-4f23-8717-b571bb4c676a" valueTypeId="a9d0fede-27c2-4255-8a10-9b92e66ef699"/>
     </producedTypes>
     <name>Артефакты</name>
     <synonym>

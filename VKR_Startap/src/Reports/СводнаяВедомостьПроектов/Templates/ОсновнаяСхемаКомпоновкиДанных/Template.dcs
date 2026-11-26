@@ -117,7 +117,6 @@
 					<dcsset:field>Баллы</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
-			<dcsset:structure>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
 				<dcsset:groupItems>
 					<dcsset:item xsi:type="dcsset:GroupItemField">
@@ -142,7 +141,6 @@
 					<dcsset:item xsi:type="dcsset:SelectedItemAuto"/>
 				</dcsset:selection>
 			</dcsset:item>
-			</dcsset:structure>
 		</dcsset:settings>
 	</settingsVariant>
 </DataCompositionSchema>

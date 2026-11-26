@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="17e08c81-3b77-4667-96d9-33f8bf1ed09e">
   <producedTypes>
-    <objectType typeId="d4fd2af7-aed3-449f-bf12-6f238df9be15" valueTypeId="876ff3cf-3963-473e-abc9-ad6e410ebfd5"/>
-    <refType typeId="c4338030-fef6-4343-8ad7-a0df6ad46f0a" valueTypeId="f3da2a96-98b1-42ae-ab74-7323564b34fe"/>
-    <selectionType typeId="d1eb58d9-8c77-4169-b03c-a38d848825aa" valueTypeId="618a9942-af55-4412-b9de-7a060ee5df2c"/>
-    <listType typeId="1c0c11e0-efa3-4498-845a-5d1b6aa95541" valueTypeId="314a5853-a13f-4188-bd4a-ec85606f8db4"/>
-    <managerType typeId="d7bc945d-4252-4ce5-a08b-0d4e594dba16" valueTypeId="746a15e4-e620-48f2-9960-12593a1a48cb"/>
+    <objectType typeId="7677f3e7-9148-47bc-a39c-d31595c20a77" valueTypeId="e7910896-b01e-4efb-920a-4b637ae70441"/>
+    <refType typeId="690c719e-80b4-4dd8-966c-48c8683afb64" valueTypeId="36681189-0eaa-47fc-9b84-723c2c46ae47"/>
+    <selectionType typeId="62a8a93a-828d-4106-88c8-e3c6fa842dd0" valueTypeId="d3012ff4-3a38-406d-9d98-ef0d5c38081a"/>
+    <listType typeId="e9804c39-aac8-4be3-8df8-27527cfe04aa" valueTypeId="5d753bfb-b696-44ce-8b87-67852da1e416"/>
+    <managerType typeId="0d1eca27-d47f-4384-b99e-9505c9647fe6" valueTypeId="b5169fb8-3337-469d-bd37-628c187daa41"/>
   </producedTypes>
   <name>ВидыМероприятий</name>
   <synonym>

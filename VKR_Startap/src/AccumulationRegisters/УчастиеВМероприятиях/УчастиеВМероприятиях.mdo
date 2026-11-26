@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1b8b08c9-eb0a-4435-bfa3-e0b0b0934d33">
   <producedTypes>
-    <selectionType typeId="b768bc97-ab80-456f-b571-3689e04b6539" valueTypeId="afc7668a-75ee-4fb9-8cf3-b09c6a733251"/>
-    <listType typeId="5f5ea26b-56c5-44bc-bd01-9c4015d1de9d" valueTypeId="7ca771d4-1971-4ddb-a794-8daa57c42100"/>
-    <managerType typeId="8638801b-4f8f-4c9e-9766-01658316eb9d" valueTypeId="d1ed19ed-f582-4757-ba2f-9c6f27bfb84c"/>
-    <recordSetType typeId="9b1d6455-6178-4531-99a0-916b68f8efd5" valueTypeId="756ea5bc-e4d6-44dd-b1f1-67e7b21edab7"/>
-    <recordKeyType typeId="d8388671-9d5f-4765-a08b-4c03406a7f03" valueTypeId="187edc93-e23f-442b-b2c9-6cad16162761"/>
-    <recordType typeId="1128cf14-ff3c-4c14-ba93-1be728751ea7" valueTypeId="948013ef-ab8c-4733-a7d2-9b5e68427d53"/>
+    <selectionType typeId="f7abd5f9-ff82-4480-9c31-f10f44cb0b4f" valueTypeId="6c6a4f31-fcd1-486b-85ab-0b1775cb7f8f"/>
+    <listType typeId="ad16d0ec-3635-454c-b2fe-0d4d46df9a5a" valueTypeId="188edc1a-fce5-4fb1-b958-b120176a2687"/>
+    <managerType typeId="401164ef-ad7b-4fee-8ae3-cc91a83d5a13" valueTypeId="64d1aaed-d3c2-4c85-88a4-7143d9e2172c"/>
+    <recordSetType typeId="b0f3782a-bbc0-4f31-9b3e-4d134ac69774" valueTypeId="7673274b-0852-48e0-af70-e21220763813"/>
+    <recordKeyType typeId="a390cd76-3ff4-4cdb-94e5-18b4dd66e4c3" valueTypeId="61cb2191-75b6-48ef-95c4-46a11f148fec"/>
+    <recordType typeId="a1003e73-71c7-4715-95b9-077ea235b67a" valueTypeId="aea65a89-bcbc-4244-8f2b-6ae79a420bf3"/>
   </producedTypes>
   <name>УчастиеВМероприятиях</name>
   <synonym>

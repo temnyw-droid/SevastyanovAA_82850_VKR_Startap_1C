@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="eef6a591-5903-46d0-b903-099efadf9bdd">
   <producedTypes>
-    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
-    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
-    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
-    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
-    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+    <objectType typeId="a6fc6374-96e2-42c1-91a0-07e12a7f73e4" valueTypeId="18d45646-2dd9-47f3-8cbc-7db05fea4b5b"/>
+    <refType typeId="498692d4-ab1a-4c13-90ab-f186ee03f31f" valueTypeId="d1ccd1b7-4637-4d85-844e-7a1bc4b78217"/>
+    <selectionType typeId="7e4d3baa-5fee-4183-bea5-a69b48a75c6a" valueTypeId="400b2f7f-3800-46c6-95a1-62faa91a5f65"/>
+    <listType typeId="aa0d91c9-6917-49a6-8dca-46fa1351f7f0" valueTypeId="30df08b9-65a3-48cc-a526-32445b62dbb1"/>
+    <managerType typeId="809f52db-c3aa-4be1-9313-843763c69f7b" valueTypeId="b4d7ba9a-4f48-4d0e-a6dc-46210b0f98dd"/>
   </producedTypes>
   <name>НазначениеКуратора</name>
   <synonym>

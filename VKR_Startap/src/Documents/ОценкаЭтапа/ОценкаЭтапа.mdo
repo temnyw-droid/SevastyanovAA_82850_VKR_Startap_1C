@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e8b1e9e4-b8de-4f2b-84ef-792f222bedd1">
   <producedTypes>
-    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
-    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
-    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
-    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
-    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+    <objectType typeId="c8fe97f2-1368-4e6e-9981-73a77626edad" valueTypeId="4f995bd1-7e7a-443e-9af8-224d7441a177"/>
+    <refType typeId="2c2d03eb-f62d-43c7-b5c7-f2f737b2b195" valueTypeId="de1f2cac-470e-4b99-864c-3e87e5e80f26"/>
+    <selectionType typeId="213aabfe-d01f-4a19-bada-e8d1c0af1e80" valueTypeId="c12ea066-dbf5-44c8-a7ba-72967b4649d6"/>
+    <listType typeId="b9414de1-3b00-416c-bd53-9b12cbd645ee" valueTypeId="df7b4208-010d-4f04-a34e-c10ba6027a7c"/>
+    <managerType typeId="d1af9ae1-6656-4ea4-aa7d-6aadcf2e009d" valueTypeId="a08162e8-3d3d-44b8-9574-f1e2da36da63"/>
   </producedTypes>
   <name>ОценкаЭтапа</name>
   <synonym>
@@ -120,8 +120,8 @@
   </attributes>
   <tabularSections uuid="e8c77c5f-b4a2-49aa-bb4d-b26f5a1378b2">
     <producedTypes>
-      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
-      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+      <objectType typeId="7c2d7261-b7e4-4f5e-b65a-351e4d138826" valueTypeId="497c6524-1abf-438a-b477-82ab5a7fb2f6"/>
+      <rowType typeId="40dfaadc-e5cb-44bf-800e-09ec77f31d39" valueTypeId="9ce2738f-6367-491c-9f51-3322bd0a0851"/>
     </producedTypes>
     <name>Баллы</name>
     <synonym>

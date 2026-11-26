@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3bb12607-3fe4-4b2c-9391-8d8853d232eb">
   <producedTypes>
-    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
-    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
-    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
-    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
-    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+    <objectType typeId="8b731c47-939d-4023-821f-934fc7b8b4ba" valueTypeId="a9736b30-28c1-4234-9a8d-3bc315f119fe"/>
+    <refType typeId="55ac6a98-8343-4fef-b7ac-084236c5bfac" valueTypeId="228a9a66-661b-4def-a9fb-5fb61882207d"/>
+    <selectionType typeId="90e7492a-8ac7-4973-ba74-17f59c871812" valueTypeId="e007ce13-81f6-46ed-995f-6fa59636ec97"/>
+    <listType typeId="181bb54d-b306-466e-af72-520301639ea2" valueTypeId="872a653c-142f-4740-b87a-77fba2ae88a6"/>
+    <managerType typeId="c8fbc46d-a6c0-4d8d-84d5-1935904f2efd" valueTypeId="9c53f222-20d9-4142-93d5-29a05a2635d6"/>
   </producedTypes>
   <name>ПроектноеМероприятие</name>
   <synonym>
@@ -118,8 +118,8 @@
   </attributes>
   <tabularSections uuid="b30ae909-ab0f-4cfd-9df9-b9cb270015f0">
     <producedTypes>
-      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
-      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+      <objectType typeId="d243b2c6-6143-460e-8be4-8742b0b13992" valueTypeId="ef3425b0-781e-49e1-828d-fe2e1c3d8b93"/>
+      <rowType typeId="13441cfd-c993-4e9b-9dec-7cc3e077dbf2" valueTypeId="e7f790f4-8563-4c4c-b48f-d02f0b386dff"/>
     </producedTypes>
     <name>Участники</name>
     <synonym>

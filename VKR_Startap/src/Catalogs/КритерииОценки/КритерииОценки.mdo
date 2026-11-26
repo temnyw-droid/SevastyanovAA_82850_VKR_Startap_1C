@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="681f353e-77bd-48b8-b273-dbc739d49ccf">
   <producedTypes>
-    <objectType typeId="d4fd2af7-aed3-449f-bf12-6f238df9be15" valueTypeId="876ff3cf-3963-473e-abc9-ad6e410ebfd5"/>
-    <refType typeId="c4338030-fef6-4343-8ad7-a0df6ad46f0a" valueTypeId="f3da2a96-98b1-42ae-ab74-7323564b34fe"/>
-    <selectionType typeId="d1eb58d9-8c77-4169-b03c-a38d848825aa" valueTypeId="618a9942-af55-4412-b9de-7a060ee5df2c"/>
-    <listType typeId="1c0c11e0-efa3-4498-845a-5d1b6aa95541" valueTypeId="314a5853-a13f-4188-bd4a-ec85606f8db4"/>
-    <managerType typeId="d7bc945d-4252-4ce5-a08b-0d4e594dba16" valueTypeId="746a15e4-e620-48f2-9960-12593a1a48cb"/>
+    <objectType typeId="da33375b-7706-4030-87ce-d219180ca2c7" valueTypeId="bcbe2a6d-c451-414b-aa93-f2aa8fcb82c7"/>
+    <refType typeId="8deb8b2a-3811-4b20-84f3-c11f103fca81" valueTypeId="bf5eea94-9256-43ce-bc16-3e06c8f9ec3d"/>
+    <selectionType typeId="4d36bca4-48f4-4b44-bd47-72ab9e99200c" valueTypeId="a9b779b0-ca22-43a1-bc86-aa33b8292338"/>
+    <listType typeId="b7a8467f-3765-4f91-ba7e-e4c1c6959dcb" valueTypeId="6605ddb8-86a6-4b42-bb11-876fc80b6bf7"/>
+    <managerType typeId="31bb4811-28fb-4f14-b2ca-d176dcf0c412" valueTypeId="9bba6ea3-a5a7-486a-ba62-1b459917cc15"/>
   </producedTypes>
   <name>КритерииОценки</name>
   <synonym>

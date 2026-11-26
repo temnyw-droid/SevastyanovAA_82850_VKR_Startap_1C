@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1501e179-1b18-4eac-912c-289b6eaa0a7e">
   <producedTypes>
-    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
-    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
-    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
-    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
-    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+    <objectType typeId="aadd9c70-475d-4c50-aa6c-89e88f882ade" valueTypeId="6fb64d91-8a7a-41dd-9443-a4a87757fa53"/>
+    <refType typeId="cab4dedf-9099-4f39-916c-92354049960d" valueTypeId="9ab215e5-9d4d-4a2e-b83f-6b79c0123852"/>
+    <selectionType typeId="5187c020-86ed-4f1d-b6a8-dc95df6b85f5" valueTypeId="ffd4a812-5d0d-4fb9-9d30-8213b3915dfd"/>
+    <listType typeId="db18c7e3-0ea7-4b15-8f29-2a18977df002" valueTypeId="a4be9c1a-3811-40ae-aa45-2f7449f75d42"/>
+    <managerType typeId="468e73be-0a13-4225-9c6c-2d808eae4846" valueTypeId="4f3c04a9-ffe3-4d7f-8522-d71541ba8d32"/>
   </producedTypes>
   <name>ПланРазвитияПроекта</name>
   <synonym>
@@ -69,8 +69,8 @@
   </attributes>
   <tabularSections uuid="1ba94d8f-4235-4767-b8c0-f44d0e5d297b">
     <producedTypes>
-      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
-      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+      <objectType typeId="682a82f5-3aed-4838-b301-620892d2c76c" valueTypeId="8495b9ad-7974-4d53-a9e8-9e79228239cb"/>
+      <rowType typeId="0517b73b-dea0-4394-bc64-4b6d40fdc223" valueTypeId="699a1fde-552f-4ca3-a7e6-a2f791fa0c13"/>
     </producedTypes>
     <name>Этапы</name>
     <synonym>

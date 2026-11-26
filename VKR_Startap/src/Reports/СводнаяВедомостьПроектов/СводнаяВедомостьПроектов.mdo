@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c9e42015-d72f-499f-8897-c5460b7b0cd5">
   <producedTypes>
-    <objectType typeId="a5e4bf2b-2679-42fd-86d5-59b12c6d565b" valueTypeId="3c06363e-db6e-41d8-bbf5-db5d92d427f5"/>
-    <managerType typeId="3bba16c4-7ac2-409c-9513-12a03614a608" valueTypeId="df24941c-b74f-4870-8b1b-2a8ca31fbff9"/>
+    <objectType typeId="db0f2de4-e769-41c8-814e-7fb80e0368b1" valueTypeId="eb7cdcbc-4229-42bd-92c8-ed1fc78c1071"/>
+    <managerType typeId="8e57a8b6-61f8-4b0b-a822-eba5cfb0e81b" valueTypeId="e6019097-9a81-4045-ab2b-608a400fbeef"/>
   </producedTypes>
   <name>СводнаяВедомостьПроектов</name>
   <synonym>

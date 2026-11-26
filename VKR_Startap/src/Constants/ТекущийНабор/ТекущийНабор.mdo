@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="67c26639-0c1a-48de-9927-6e4a3bf9d542">
   <producedTypes>
-    <managerType typeId="71206e22-77f6-4de3-8ebe-bf67be81d1ac" valueTypeId="79ecef47-695c-41f3-bae0-ad4de72da6bd"/>
-    <valueManagerType typeId="19947c41-3684-4a2c-b06f-6ec120b8f361" valueTypeId="3fb25c21-8127-4a52-b689-d3f1a447e91b"/>
-    <valueKeyType typeId="d10e4b39-c39c-4bbb-987a-6860c58e3d41" valueTypeId="b0fb1c02-a009-4730-8841-75413511b82e"/>
+    <managerType typeId="04cae2f2-4b1e-4051-b960-849220d10425" valueTypeId="c15d8f8e-01bb-4856-bf64-20471b6d2ad1"/>
+    <valueManagerType typeId="4a3d505d-937e-4d7d-a665-5d400530c562" valueTypeId="2e657b46-0d99-4ab1-8d55-372a6ac4d316"/>
+    <valueKeyType typeId="1cb05d11-ea5a-45d0-9fc9-f996d2a9c5d7" valueTypeId="cdd60594-38b1-4120-92f0-96d8b798f590"/>
   </producedTypes>
   <name>ТекущийНабор</name>
   <synonym>

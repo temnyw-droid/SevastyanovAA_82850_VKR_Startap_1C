@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a4263dc9-349a-4759-96d1-5497ee078b05">
   <producedTypes>
-    <objectType typeId="d4fd2af7-aed3-449f-bf12-6f238df9be15" valueTypeId="876ff3cf-3963-473e-abc9-ad6e410ebfd5"/>
-    <refType typeId="c4338030-fef6-4343-8ad7-a0df6ad46f0a" valueTypeId="f3da2a96-98b1-42ae-ab74-7323564b34fe"/>
-    <selectionType typeId="d1eb58d9-8c77-4169-b03c-a38d848825aa" valueTypeId="618a9942-af55-4412-b9de-7a060ee5df2c"/>
-    <listType typeId="1c0c11e0-efa3-4498-845a-5d1b6aa95541" valueTypeId="314a5853-a13f-4188-bd4a-ec85606f8db4"/>
-    <managerType typeId="d7bc945d-4252-4ce5-a08b-0d4e594dba16" valueTypeId="746a15e4-e620-48f2-9960-12593a1a48cb"/>
+    <objectType typeId="08dbefed-cac8-4af1-9469-bb288f0aa0dc" valueTypeId="ddb6ba88-2699-4a94-b7f3-1b09497efbc3"/>
+    <refType typeId="1b8a7ea4-65a9-474d-82b1-a89aa765bb4f" valueTypeId="66108332-baa6-4099-884c-985d6c3ccc19"/>
+    <selectionType typeId="00df159b-156a-4039-a4bb-cb09d96dd03d" valueTypeId="15ac2e50-1695-4596-a468-cbd4b7b11a24"/>
+    <listType typeId="b70f9d98-f25c-45a9-bb71-829c316be3ed" valueTypeId="6f2d7d43-9672-4a12-8b65-7d2c8954fcec"/>
+    <managerType typeId="c771a85e-797f-4415-b24a-194986e77d43" valueTypeId="8a6787b9-580d-4935-b22a-e8fdf502f5d9"/>
   </producedTypes>
   <name>Студенты</name>
   <synonym>

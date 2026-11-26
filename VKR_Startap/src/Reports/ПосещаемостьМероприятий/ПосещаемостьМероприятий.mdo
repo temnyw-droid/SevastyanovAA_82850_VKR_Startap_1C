@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0fab01c1-4bd5-454b-807e-aa94b445bc50">
   <producedTypes>
-    <objectType typeId="a5e4bf2b-2679-42fd-86d5-59b12c6d565b" valueTypeId="3c06363e-db6e-41d8-bbf5-db5d92d427f5"/>
-    <managerType typeId="3bba16c4-7ac2-409c-9513-12a03614a608" valueTypeId="df24941c-b74f-4870-8b1b-2a8ca31fbff9"/>
+    <objectType typeId="0d722dad-0fbb-4b4f-ae50-5546f533af8e" valueTypeId="62f3f65f-8ef8-4b84-b3ca-e6f3c00302c9"/>
+    <managerType typeId="02d967e8-f25b-4764-8757-1c6a9860da0f" valueTypeId="360fc672-1652-4a1c-b43d-dc218f196bb9"/>
   </producedTypes>
   <name>ПосещаемостьМероприятий</name>
   <synonym>

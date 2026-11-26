@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3b729105-a2d5-4ced-92ff-875cf14ee766">
   <producedTypes>
-    <managerType typeId="71206e22-77f6-4de3-8ebe-bf67be81d1ac" valueTypeId="79ecef47-695c-41f3-bae0-ad4de72da6bd"/>
-    <valueManagerType typeId="19947c41-3684-4a2c-b06f-6ec120b8f361" valueTypeId="3fb25c21-8127-4a52-b689-d3f1a447e91b"/>
-    <valueKeyType typeId="d10e4b39-c39c-4bbb-987a-6860c58e3d41" valueTypeId="b0fb1c02-a009-4730-8841-75413511b82e"/>
+    <managerType typeId="e42db38b-8e9d-469c-9fce-6935aa5f35b7" valueTypeId="a5a3ca8b-62ae-4bdd-9a1b-a72eb096281f"/>
+    <valueManagerType typeId="df147a3a-72c9-42b6-a004-c94ade53e7c1" valueTypeId="95d30706-b74f-4fe6-91e5-e32a4a6e40c5"/>
+    <valueKeyType typeId="08d9c5b6-ef84-480a-8af6-b1ab329abd85" valueTypeId="505a565c-e53b-46ef-b6ab-0bdfe584b91a"/>
   </producedTypes>
   <name>Организация</name>
   <synonym>

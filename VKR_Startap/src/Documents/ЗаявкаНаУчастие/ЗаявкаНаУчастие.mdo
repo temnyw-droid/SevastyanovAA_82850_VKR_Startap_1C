@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="77534e0e-ca37-43ae-bf87-d9187385d109">
   <producedTypes>
-    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
-    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
-    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
-    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
-    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+    <objectType typeId="493bad0d-503e-429b-9df3-813e42114509" valueTypeId="6a515646-44b7-4202-9f5d-fe3836d86cc9"/>
+    <refType typeId="c8683cea-2b3a-4a4c-8f9d-8ec8b27ed805" valueTypeId="8f0bc50a-544f-4544-9f8a-122ee74aac2c"/>
+    <selectionType typeId="5ea32760-bca4-436f-9eaa-0100546cb46a" valueTypeId="35e566ed-9af4-4019-842d-b161f382575e"/>
+    <listType typeId="4b8ebf12-9de7-41b4-bbf9-6fc801365563" valueTypeId="e3f99078-d628-4b26-85c0-895ab083647e"/>
+    <managerType typeId="68eeed6a-59ed-4faf-a20e-283fc9ed67cd" valueTypeId="29f1979b-d06b-4511-938b-00f56bb909b5"/>
   </producedTypes>
   <name>ЗаявкаНаУчастие</name>
   <synonym>
@@ -137,8 +137,8 @@
   </attributes>
   <tabularSections uuid="63346bd9-231d-41ef-9245-404584076a3c">
     <producedTypes>
-      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
-      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+      <objectType typeId="a3fd3c4f-68da-40f9-bda5-66bb76f5ef7d" valueTypeId="9ca58329-7c34-48a6-9c5c-86c887fb9afd"/>
+      <rowType typeId="6808f2f3-e354-4f2f-977d-452713249f11" valueTypeId="8ac680ec-c81d-47d0-b94c-c1743a2da891"/>
     </producedTypes>
     <name>СоставКоманды</name>
     <synonym>

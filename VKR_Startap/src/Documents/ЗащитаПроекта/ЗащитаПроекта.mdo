@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="edff032c-59f7-4ecf-bb87-501709829d9d">
   <producedTypes>
-    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
-    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
-    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
-    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
-    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+    <objectType typeId="6350d8cc-ae4f-4c95-9078-22cb0b7d9f8f" valueTypeId="9e310781-c2f1-4d61-839b-046a4ec743ba"/>
+    <refType typeId="490aea55-cd0f-456b-87f4-20882e17d10d" valueTypeId="2ec6ef81-b21b-4e44-9f1c-7359449c9341"/>
+    <selectionType typeId="26bfcb98-3d15-4bbc-b598-75f26f52a8b8" valueTypeId="11bcdfed-e6e4-4fea-ac38-146c13a67faa"/>
+    <listType typeId="dfd0414a-eded-4d1b-b534-ec9c2ca509bc" valueTypeId="8dd51935-dc84-4698-b2b0-60e083b65706"/>
+    <managerType typeId="d620b837-cc42-4f92-af20-0406ee3016e2" valueTypeId="1a0f5d32-6e4c-405a-9e8c-eb233afea2c3"/>
   </producedTypes>
   <name>ЗащитаПроекта</name>
   <synonym>
@@ -132,8 +132,8 @@
   </tabularSections>
   <tabularSections uuid="1df19960-8c21-4632-8dda-6a12ef6f8ca3">
     <producedTypes>
-      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
-      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+      <objectType typeId="41e1ee9a-cce9-4c8d-a3a7-29ee6b46804b" valueTypeId="18100b5a-1bcb-4baf-befa-220f79f56722"/>
+      <rowType typeId="cd737a12-90ae-4df4-8944-a3794f8b62c2" valueTypeId="0df788d8-21b8-4d7a-87d1-3cedf87b5339"/>
     </producedTypes>
     <name>Баллы</name>
     <synonym>

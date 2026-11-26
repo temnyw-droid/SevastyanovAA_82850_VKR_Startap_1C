@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7ba879f3-7785-4f06-93f8-450ed9a89fcf">
   <producedTypes>
-    <refType typeId="cba7197b-e351-4848-93b7-f53c1211f5fb" valueTypeId="a1f67e5f-dcd8-45e3-af70-8c539c2b0629"/>
-    <listType typeId="1bedcef5-9a40-403a-921e-1e40514c9c8a" valueTypeId="202fe24d-04f3-4738-a01a-3ae4b2a276b3"/>
-    <managerType typeId="7c57a3b2-8379-467f-8a71-ea85aac178d7" valueTypeId="616fcb61-9c16-465d-a3c8-1091be635565"/>
+    <refType typeId="f0135607-bcc0-419c-ac2b-09d8ebca8050" valueTypeId="a37ceff1-f12e-41fa-9013-a1daac0a943e"/>
+    <listType typeId="bfcaeb6d-baae-4e38-83ae-bf4c39ee620e" valueTypeId="bd6ee8c2-3889-4ee1-8de6-55c1004d1b89"/>
+    <managerType typeId="fd70248d-16ae-40a2-bc16-78bb273a0437" valueTypeId="2766cc76-13aa-40f0-99d3-813b3cb5ea05"/>
   </producedTypes>
   <name>РолиУчастниковКоманды</name>
   <synonym>

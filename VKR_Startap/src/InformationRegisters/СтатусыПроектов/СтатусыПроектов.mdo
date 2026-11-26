@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b9d08218-b7fa-4349-9c17-d062d84ac58a">
   <producedTypes>
-    <selectionType typeId="bc823571-afb2-48c3-9c5f-ffd679515bd7" valueTypeId="ce8ab800-373d-40c6-bd8b-7555f8763c14"/>
-    <listType typeId="e52af54f-4d87-4c85-8955-8c1077d55477" valueTypeId="ba437430-c21e-43b7-9191-44124e42c266"/>
-    <managerType typeId="8b81ffa5-acde-4f70-860f-cf7ef98df7f2" valueTypeId="587cdbc0-4afc-44c7-aadf-426cd3ffc2ea"/>
-    <recordSetType typeId="8753cfaa-4db9-4fde-b2ab-1b429f4ea961" valueTypeId="92f9e3f9-1a1c-4110-8150-6828d33299ac"/>
-    <recordKeyType typeId="6ab1e024-299f-43ad-b8bc-e3e8d917353b" valueTypeId="c3d3e65d-74c4-40ae-8d34-1b97e73bbdb4"/>
-    <recordType typeId="1f4614db-4722-4954-b2df-e46e4aaa3905" valueTypeId="0018278c-764d-4785-b7c2-1a2b70adb26c"/>
-    <recordManagerType typeId="ede12ffa-d265-4e55-a24c-2766a368eddd" valueTypeId="98d0f9c9-4200-4ebb-97ce-80fec1f52fab"/>
+    <selectionType typeId="293afb98-106a-41b3-acdd-4c034a422793" valueTypeId="9cb38403-4642-4c80-aa55-cc6aa61c6815"/>
+    <listType typeId="46f592e7-4045-4f2f-aa5a-00f3b85fb74b" valueTypeId="86cc062a-9e32-4c36-8ff9-e926a45e81ab"/>
+    <managerType typeId="05471dcb-9390-4921-9a15-ae396f11244c" valueTypeId="afa36a0a-0cf8-41be-b4ea-b09c4e7fb837"/>
+    <recordSetType typeId="62136bb4-53b2-45e4-8d09-74dbfb74a60d" valueTypeId="70300841-4b6f-40f2-a233-55b7eef6f6a8"/>
+    <recordKeyType typeId="53489e47-2e06-4ab9-a78d-eb2847dd6207" valueTypeId="23010d50-baca-4f2c-88cd-38a49d571360"/>
+    <recordType typeId="a545f58b-6b5b-410a-b018-8fcff6010d5e" valueTypeId="09d2ec57-fdae-4135-b5a2-07c4944116d7"/>
+    <recordManagerType typeId="232ded4d-0805-4efa-813f-49e95e1301a0" valueTypeId="897f98d0-a138-4a76-bd70-95caf36aaed6"/>
   </producedTypes>
   <name>СтатусыПроектов</name>
   <synonym>

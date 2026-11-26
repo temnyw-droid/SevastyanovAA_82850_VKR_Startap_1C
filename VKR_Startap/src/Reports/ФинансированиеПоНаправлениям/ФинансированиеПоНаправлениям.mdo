@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="668f5b15-0966-4b6e-ac7e-e56da152a8ec">
   <producedTypes>
-    <objectType typeId="a5e4bf2b-2679-42fd-86d5-59b12c6d565b" valueTypeId="3c06363e-db6e-41d8-bbf5-db5d92d427f5"/>
-    <managerType typeId="3bba16c4-7ac2-409c-9513-12a03614a608" valueTypeId="df24941c-b74f-4870-8b1b-2a8ca31fbff9"/>
+    <objectType typeId="edff8797-aaa7-448a-8526-95406664ffe0" valueTypeId="d688817a-7601-4f78-9398-b17a095dc675"/>
+    <managerType typeId="09e6d4a8-0240-4fc5-bb89-8819e516dfef" valueTypeId="43146fc0-76b2-43aa-be4d-e3e0378ceb60"/>
   </producedTypes>
   <name>ФинансированиеПоНаправлениям</name>
   <synonym>

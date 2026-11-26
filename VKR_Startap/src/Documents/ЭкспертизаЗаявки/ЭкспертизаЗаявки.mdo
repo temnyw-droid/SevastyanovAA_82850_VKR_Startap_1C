@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e308b297-e96d-48a6-9429-247f4ebddcb0">
   <producedTypes>
-    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
-    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
-    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
-    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
-    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+    <objectType typeId="f809a61b-cb72-4f67-afe5-88498b7ec046" valueTypeId="a0962928-8970-4c95-842d-77471cb08080"/>
+    <refType typeId="24cf7bd7-8027-4688-a1fd-c635783f34f1" valueTypeId="b468d36b-52c9-4e22-8510-798f1ccfc916"/>
+    <selectionType typeId="df5350a3-718a-4b52-b88a-7d7b1ebfc1c1" valueTypeId="d2b87666-0db3-4d51-bd70-385895d30355"/>
+    <listType typeId="4e68cb42-2d7c-4e07-b349-0fd7f46e1533" valueTypeId="10e41c35-e3b2-4910-9078-65ad897e3f5b"/>
+    <managerType typeId="b5804f14-6941-4c0a-8113-fc10b8631cb1" valueTypeId="bf523360-8682-4b40-bdda-4b17c18d3b78"/>
   </producedTypes>
   <name>ЭкспертизаЗаявки</name>
   <synonym>
@@ -143,8 +143,8 @@
   </attributes>
   <tabularSections uuid="9f061c29-65a1-4c74-9817-c6fe16910d1e">
     <producedTypes>
-      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
-      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+      <objectType typeId="d32e9ee3-6e09-4e1d-a35b-5d5e7518cd43" valueTypeId="3351d180-d511-4809-b8f0-ea7de796a27b"/>
+      <rowType typeId="df25cc19-d231-46c4-adac-2dfa02b7f606" valueTypeId="8de14aba-eb46-4a4a-a04e-6c411dc8f625"/>
     </producedTypes>
     <name>Баллы</name>
     <synonym>

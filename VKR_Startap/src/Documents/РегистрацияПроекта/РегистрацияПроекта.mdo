@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c60e4139-0397-4574-b383-ce411712dae5">
   <producedTypes>
-    <objectType typeId="2a3cae43-9796-48c8-9c84-3aa4ed89113f" valueTypeId="666bd251-0d24-423d-9788-85455fe93665"/>
-    <refType typeId="33c8fcc5-f3a8-48cb-9b11-14e8f733a3ce" valueTypeId="8c71cad9-0e24-439c-8b3e-142dca538399"/>
-    <selectionType typeId="5e42d044-21e1-44b8-91ee-dd227c8d000c" valueTypeId="4ecc503e-1300-4443-9feb-12eec8bb49b2"/>
-    <listType typeId="e5addb00-5bc3-4553-b3a3-3cbfb8e3c7f9" valueTypeId="c3e94c5e-f64a-492b-8f04-82d13b16693f"/>
-    <managerType typeId="92fd2007-1c6b-4a36-9824-b67b5857bd76" valueTypeId="e6f2e0b1-df93-4c1e-b672-ad0ff0686d2d"/>
+    <objectType typeId="961e3f9c-c333-44e0-82e4-2ea8631205fb" valueTypeId="d1161272-aab9-45bd-90cd-0f2baec82373"/>
+    <refType typeId="5901e781-f540-4447-b997-fa957009e7a4" valueTypeId="db0d6a5b-2060-4c3e-8e7b-be8bc9cf3aa7"/>
+    <selectionType typeId="33f5a759-0ac4-4ce0-9a84-bc672297c7dc" valueTypeId="7a27d7ff-c6b8-4fd0-a354-0c08d6731b6b"/>
+    <listType typeId="4cf80a48-68e0-4122-819c-6d919b2d0e02" valueTypeId="5ce56879-436c-466c-9a69-c95e31512a50"/>
+    <managerType typeId="a2428946-5724-436d-a2db-116bd48a7d57" valueTypeId="95a4ad87-275f-486d-b581-c7c6a12fa392"/>
   </producedTypes>
   <name>РегистрацияПроекта</name>
   <synonym>
@@ -86,8 +86,8 @@
   </attributes>
   <tabularSections uuid="e26d120b-b4cb-4e98-921c-f6eee9745cdf">
     <producedTypes>
-      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
-      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+      <objectType typeId="1aa17be6-1172-4c84-9429-734bc3a540e7" valueTypeId="2a88507f-4f3c-48b7-8521-c3ec6801bbbb"/>
+      <rowType typeId="a16623ed-009f-47ee-b5fd-713d1aa6a09f" valueTypeId="8db0c35a-058d-4ccf-b845-319144c24dd4"/>
     </producedTypes>
     <name>СоставКоманды</name>
     <synonym>
@@ -126,8 +126,8 @@
   </tabularSections>
   <tabularSections uuid="446e1294-e266-4bcd-aa15-772df3daafa6">
     <producedTypes>
-      <objectType typeId="42556090-2807-433f-82e6-7e4a2fa6c853" valueTypeId="42ec016a-11fe-450d-a865-cd674a36f6e4"/>
-      <rowType typeId="20bbdd8c-dfd0-4608-9240-5025640f21d2" valueTypeId="8a2bad4d-1cee-42ac-b1da-3556e5dc4674"/>
+      <objectType typeId="2f0cf6f3-1437-4f94-8c73-419de76c9acd" valueTypeId="33e8ec42-ae05-43f4-bcf1-decd22adc8d1"/>
+      <rowType typeId="93131f4d-25b7-4b94-9656-9da5757c8d2c" valueTypeId="ac3fecfb-06f1-4cd3-b4f5-596d219d7520"/>
     </producedTypes>
     <name>Финансирование</name>
     <synonym>

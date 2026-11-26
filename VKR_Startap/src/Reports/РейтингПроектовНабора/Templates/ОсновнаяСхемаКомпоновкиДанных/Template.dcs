@@ -30,7 +30,9 @@
 	Баллы.Проект КАК Проект,
 	Баллы.БаллыОборот КАК Баллы
 ИЗ
-	РегистрНакопления.БаллыПроектов.Обороты КАК Баллы</query>
+	РегистрНакопления.БаллыПроектов.Обороты КАК Баллы
+УПОРЯДОЧИТЬ ПО
+	Баллы УБЫВ</query>
 	</dataSet>
 	<totalField>
 		<dataPath>Баллы</dataPath>
@@ -56,13 +58,6 @@
 					<dcsset:field>Баллы</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
-			<dcsset:order>
-				<dcsset:item xsi:type="dcsset:OrderItemField">
-					<dcsset:field>Баллы</dcsset:field>
-					<dcsset:orderDirection>Desc</dcsset:orderDirection>
-				</dcsset:item>
-			</dcsset:order>
-			<dcsset:structure>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
 				<dcsset:groupItems>
 					<dcsset:item xsi:type="dcsset:GroupItemField">
@@ -79,28 +74,7 @@
 				<dcsset:selection>
 					<dcsset:item xsi:type="dcsset:SelectedItemAuto"/>
 				</dcsset:selection>
-				<dcsset:structure>
-			<dcsset:item xsi:type="dcsset:StructureItemGroup">
-				<dcsset:groupItems>
-					<dcsset:item xsi:type="dcsset:GroupItemField">
-						<dcsset:field>Проект</dcsset:field>
-						<dcsset:groupType>Items</dcsset:groupType>
-						<dcsset:periodAdditionType>None</dcsset:periodAdditionType>
-						<dcsset:periodAdditionBegin xsi:type="xs:dateTime">0001-01-01T00:00:00</dcsset:periodAdditionBegin>
-						<dcsset:periodAdditionEnd xsi:type="xs:dateTime">0001-01-01T00:00:00</dcsset:periodAdditionEnd>
-					</dcsset:item>
-				</dcsset:groupItems>
-				<dcsset:order>
-					<dcsset:item xsi:type="dcsset:OrderItemAuto"/>
-				</dcsset:order>
-				<dcsset:selection>
-					<dcsset:item xsi:type="dcsset:SelectedItemAuto"/>
-				</dcsset:selection>
 			</dcsset:item>
-
-				</dcsset:structure>
-			</dcsset:item>
-			</dcsset:structure>
 		</dcsset:settings>
 	</settingsVariant>
 </DataCompositionSchema>

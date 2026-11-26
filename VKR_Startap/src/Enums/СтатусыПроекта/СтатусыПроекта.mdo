@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="76bc496b-1ca3-418d-a17b-f3ebedb6eb7e">
   <producedTypes>
-    <refType typeId="cba7197b-e351-4848-93b7-f53c1211f5fb" valueTypeId="a1f67e5f-dcd8-45e3-af70-8c539c2b0629"/>
-    <listType typeId="1bedcef5-9a40-403a-921e-1e40514c9c8a" valueTypeId="202fe24d-04f3-4738-a01a-3ae4b2a276b3"/>
-    <managerType typeId="7c57a3b2-8379-467f-8a71-ea85aac178d7" valueTypeId="616fcb61-9c16-465d-a3c8-1091be635565"/>
+    <refType typeId="de0a4610-4919-4ea7-a683-a5d09d9a428a" valueTypeId="2b82b0bf-6f0e-4e92-a972-8e4c56c4d3df"/>
+    <listType typeId="3324428a-3ba2-421b-b206-6f62f97be3b9" valueTypeId="ea981c11-3fd9-476f-a6f9-25461cc9b159"/>
+    <managerType typeId="fc9f4069-63bb-452d-9758-3a8de9ba4373" valueTypeId="ec4495d6-c90f-4cd5-8aa1-655913948ae8"/>
   </producedTypes>
   <name>СтатусыПроекта</name>
   <synonym>

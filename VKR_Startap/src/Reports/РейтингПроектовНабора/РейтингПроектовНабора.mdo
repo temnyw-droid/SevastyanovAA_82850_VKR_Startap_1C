@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4db489f2-b154-4858-be1b-baf25dc401ef">
   <producedTypes>
-    <objectType typeId="a5e4bf2b-2679-42fd-86d5-59b12c6d565b" valueTypeId="3c06363e-db6e-41d8-bbf5-db5d92d427f5"/>
-    <managerType typeId="3bba16c4-7ac2-409c-9513-12a03614a608" valueTypeId="df24941c-b74f-4870-8b1b-2a8ca31fbff9"/>
+    <objectType typeId="4e11217b-75c4-4ad1-b261-4db37cab80e4" valueTypeId="bf4e9d80-d6a7-4e17-aaf6-faad4abb8533"/>
+    <managerType typeId="5de5917f-829e-48c7-b5d0-2e0999f3f41e" valueTypeId="b4aa0baf-b8df-4a3a-8e3d-8d901ec6ade3"/>
   </producedTypes>
   <name>РейтингПроектовНабора</name>
   <synonym>

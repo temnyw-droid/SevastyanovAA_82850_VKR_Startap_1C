@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="307cf7e3-7f94-42a0-b335-5723c42c6fba">
   <producedTypes>
-    <objectType typeId="d4fd2af7-aed3-449f-bf12-6f238df9be15" valueTypeId="876ff3cf-3963-473e-abc9-ad6e410ebfd5"/>
-    <refType typeId="c4338030-fef6-4343-8ad7-a0df6ad46f0a" valueTypeId="f3da2a96-98b1-42ae-ab74-7323564b34fe"/>
-    <selectionType typeId="d1eb58d9-8c77-4169-b03c-a38d848825aa" valueTypeId="618a9942-af55-4412-b9de-7a060ee5df2c"/>
-    <listType typeId="1c0c11e0-efa3-4498-845a-5d1b6aa95541" valueTypeId="314a5853-a13f-4188-bd4a-ec85606f8db4"/>
-    <managerType typeId="d7bc945d-4252-4ce5-a08b-0d4e594dba16" valueTypeId="746a15e4-e620-48f2-9960-12593a1a48cb"/>
+    <objectType typeId="2835244e-58c2-4c19-9c5f-11715d13167c" valueTypeId="db3c822a-40e7-42bb-8578-365963a5f162"/>
+    <refType typeId="ef6d0b24-cda5-43a1-a8cb-1ad64e2e034a" valueTypeId="a18ad2bf-7f2f-4450-96fc-bb030a949851"/>
+    <selectionType typeId="57e72081-caf5-472c-9ac6-f82756d3ecbb" valueTypeId="00c33830-7db1-45c6-bf30-a069be10ca77"/>
+    <listType typeId="26165431-88e5-438c-9801-3d6490ec4213" valueTypeId="e11cedd5-8c3c-461c-9393-2d6d54cc4c78"/>
+    <managerType typeId="841ef9e5-483c-4c0d-b327-3b9339cb820a" valueTypeId="6b7eec26-c23f-4a4f-9501-6939e8be9e0f"/>
   </producedTypes>
   <name>Проекты</name>
   <synonym>
